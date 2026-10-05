@@ -8,6 +8,9 @@ Map configuration provided by TrystageBedwars. The maps themselves were built by
 
 ## Using the maps
 
+Every map has its mode appended (`archway_2v2`, `archway_4v4v4v4`, `Sumo_sumo`) because
+names repeat across modes. In-game display names are still the original names.
+
 **BedWars1058:** copy `Arenas/*.yml` into `plugins/BedWars1058/Arenas/` and the world
 folders into your server root, the same as with the original repo.
 

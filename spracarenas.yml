@@ -2,7 +2,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Museums
+    world: Museums_shaped
     x: 0.5
     y: 71.0
     z: 36.5
@@ -10,7 +10,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Museums
+    world: Museums_shaped
     x: 41.5
     y: 109.0
     z: 41.5
@@ -18,7 +18,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Museums
+    world: Museums_shaped
     x: -40.69999998807907
     y: 70.0
     z: -40.5
@@ -26,7 +26,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Museums
+    world: Museums_shaped
     x: 0.5
     y: 71.0
     z: -35.5
@@ -36,7 +36,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Museums
+    world: Museums_shaped
     x: 0.5
     y: 80.0
     z: 0.5
@@ -61,7 +61,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Digit
+    world: Digit_sumo
     x: -6.5
     y: 71.0
     z: 0.5
@@ -69,7 +69,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: Digit
+    world: Digit_sumo
     x: 7.5
     y: 71.0
     z: 0.5
@@ -78,7 +78,7 @@ arenas:
   display-name: Digit
   center:
     ==: Location
-    world: Digit
+    world: Digit_sumo
     x: 0.5
     y: 80.0
     z: 0.5
@@ -98,7 +98,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Cage_Fight
+    world: Cage_Fight_flat
     x: 0.5
     y: 62.0
     z: 36.5
@@ -106,7 +106,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Cage_Fight
+    world: Cage_Fight_flat
     x: 41.5
     y: 80.0
     z: 41.5
@@ -114,7 +114,7 @@ arenas:
     yaw: -219.20876
   corner2:
     ==: Location
-    world: Cage_Fight
+    world: Cage_Fight_flat
     x: 41.5
     y: 62.0
     z: 41.5
@@ -122,7 +122,7 @@ arenas:
     yaw: -219.20876
   loc1:
     ==: Location
-    world: Cage_Fight
+    world: Cage_Fight_flat
     x: 0.5
     y: 62.0
     z: -35.5
@@ -131,7 +131,7 @@ arenas:
   display-name: Cage_Fight
   center:
     ==: Location
-    world: Cage_Fight
+    world: Cage_Fight_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -155,7 +155,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Harbor
+    world: Harbor_bedfight
     x: -25.5
     y: 92.0
     z: 0.5
@@ -163,7 +163,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Harbor
+    world: Harbor_bedfight
     x: 50.5
     y: 99.0
     z: 20.5
@@ -171,7 +171,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Harbor
+    world: Harbor_bedfight
     x: -49.5
     y: 90.0
     z: -19.5
@@ -179,7 +179,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Harbor
+    world: Harbor_bedfight
     x: 26.5
     y: 92.0
     z: 0.5
@@ -189,7 +189,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Harbor
+    world: Harbor_bedfight
     x: 0.5
     y: 100.0
     z: 0.5
@@ -209,7 +209,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Chicken_Jockey
+    world: Chicken_Jockey_flat
     x: 0.5
     y: 62.0
     z: 36.5
@@ -217,7 +217,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Chicken_Jockey
+    world: Chicken_Jockey_flat
     x: 41.5
     y: 88.0
     z: 41.5
@@ -225,7 +225,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Chicken_Jockey
+    world: Chicken_Jockey_flat
     x: -40.5
     y: 62.0
     z: -40.5
@@ -233,7 +233,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Chicken_Jockey
+    world: Chicken_Jockey_flat
     x: 0.5
     y: 62.0
     z: -35.5
@@ -242,7 +242,7 @@ arenas:
   display-name: Chicken_Jockey
   center:
     ==: Location
-    world: Chicken_Jockey
+    world: Chicken_Jockey_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -266,7 +266,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Coastline
+    world: Coastline_flat
     x: 0.5
     y: 62.0
     z: 36.5
@@ -274,7 +274,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Coastline
+    world: Coastline_flat
     x: 41.5
     y: 87.0
     z: 41.5
@@ -282,7 +282,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Coastline
+    world: Coastline_flat
     x: -40.5
     y: 62.0
     z: -40.5
@@ -290,7 +290,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Coastline
+    world: Coastline_flat
     x: 0.5
     y: 62.0
     z: -35.5
@@ -299,7 +299,7 @@ arenas:
   display-name: Coastline
   center:
     ==: Location
-    world: Coastline
+    world: Coastline_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -323,7 +323,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Zhulong
+    world: Zhulong_flat
     x: 0.5
     y: 71.0
     z: 37.5
@@ -331,7 +331,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Zhulong
+    world: Zhulong_flat
     x: 41.5
     y: 100.0
     z: 41.5
@@ -339,7 +339,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Zhulong
+    world: Zhulong_flat
     x: -40.5
     y: 70.0
     z: -40.5
@@ -347,7 +347,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Zhulong
+    world: Zhulong_flat
     x: 0.5
     y: 71.0
     z: -36.5
@@ -356,7 +356,7 @@ arenas:
   display-name: Zhulong
   center:
     ==: Location
-    world: Zhulong
+    world: Zhulong_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -381,7 +381,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Zhulongs
+    world: Zhulongs_shaped
     x: 0.5
     y: 71.0
     z: 37.5
@@ -389,7 +389,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Zhulongs
+    world: Zhulongs_shaped
     x: 41.5
     y: 100.0
     z: 41.5
@@ -397,7 +397,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Zhulongs
+    world: Zhulongs_shaped
     x: -40.5
     y: 70.0
     z: -40.5
@@ -405,7 +405,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Zhulongs
+    world: Zhulongs_shaped
     x: 0.5
     y: 71.0
     z: -36.5
@@ -415,7 +415,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Zhulongs
+    world: Zhulongs_shaped
     x: 0.5
     y: 80.0
     z: 0.5
@@ -440,7 +440,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Reefs
+    world: Reefs_shaped
     x: 0.5
     y: 71.0
     z: 36.5
@@ -448,7 +448,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Reefs
+    world: Reefs_shaped
     x: 41.5
     y: 124.0
     z: 41.5
@@ -456,7 +456,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Reefs
+    world: Reefs_shaped
     x: -40.5
     y: 70.0
     z: -40.5
@@ -464,7 +464,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Reefs
+    world: Reefs_shaped
     x: 0.5
     y: 71.0
     z: -35.5
@@ -474,7 +474,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Reefs
+    world: Reefs_shaped
     x: 0.5
     y: 80.0
     z: 0.5
@@ -498,7 +498,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Barracuda_Bay
+    world: Barracuda_Bay_flat
     x: 0.5
     y: 62.0
     z: 36.5
@@ -506,7 +506,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Barracuda_Bay
+    world: Barracuda_Bay_flat
     x: 41.5
     y: 100.0
     z: 41.5
@@ -514,7 +514,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Barracuda_Bay
+    world: Barracuda_Bay_flat
     x: -40.5
     y: 62.0
     z: -40.5
@@ -522,7 +522,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Barracuda_Bay
+    world: Barracuda_Bay_flat
     x: 0.5
     y: 62.0
     z: -35.5
@@ -531,7 +531,7 @@ arenas:
   display-name: Barracuda_Bay
   center:
     ==: Location
-    world: Barracuda_Bay
+    world: Barracuda_Bay_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -555,7 +555,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Sumo
+    world: Sumo_sumo
     x: -6.5
     y: 65.0
     z: 0.5
@@ -563,7 +563,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: Sumo
+    world: Sumo_sumo
     x: 7.5
     y: 65.0
     z: 0.5
@@ -572,7 +572,7 @@ arenas:
   display-name: Sumo
   center:
     ==: Location
-    world: Sumo
+    world: Sumo_sumo
     x: 0.5
     y: 70.0
     z: 0.5
@@ -591,7 +591,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Shans
+    world: Shans_shaped
     x: -35.5
     y: 72.0
     z: 0.5
@@ -599,7 +599,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Shans
+    world: Shans_shaped
     x: 41.5
     y: 137.0
     z: 41.5
@@ -607,7 +607,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Shans
+    world: Shans_shaped
     x: -40.5
     y: 70.0
     z: -40.5
@@ -615,7 +615,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Shans
+    world: Shans_shaped
     x: 36.5
     y: 72.0
     z: 0.5
@@ -624,7 +624,7 @@ arenas:
   display-name: §eshans
   center:
     ==: Location
-    world: Shans
+    world: Shans_shaped
     x: 0.5
     y: 80.0
     z: 0.5
@@ -648,7 +648,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Cage_Fights
+    world: Cage_Fights_shaped
     x: 0.5
     y: 62.0
     z: 36.5
@@ -656,7 +656,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Cage_Fights
+    world: Cage_Fights_shaped
     x: 41.5
     y: 80.0
     z: 41.5
@@ -664,7 +664,7 @@ arenas:
     yaw: -219.20876
   corner2:
     ==: Location
-    world: Cage_Fights
+    world: Cage_Fights_shaped
     x: -41.5
     y: 62.0
     z: -41.5
@@ -672,7 +672,7 @@ arenas:
     yaw: -219.20876
   loc1:
     ==: Location
-    world: Cage_Fights
+    world: Cage_Fights_shaped
     x: 0.5
     y: 62.0
     z: -35.5
@@ -682,7 +682,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Cage_Fights
+    world: Cage_Fights_shaped
     x: 0.5
     y: 70.0
     z: 0.5
@@ -706,7 +706,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Facility
+    world: Facility_bedfight
     x: -26.5
     y: 92.0
     z: 0.5
@@ -714,7 +714,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Facility
+    world: Facility_bedfight
     x: 50.5
     y: 99.0
     z: 20.5
@@ -722,7 +722,7 @@ arenas:
     yaw: -160.04604
   corner2:
     ==: Location
-    world: Facility
+    world: Facility_bedfight
     x: -49.5
     y: 90.0
     z: -19.5
@@ -730,7 +730,7 @@ arenas:
     yaw: -85.74109
   loc1:
     ==: Location
-    world: Facility
+    world: Facility_bedfight
     x: 27.5
     y: 92.0
     z: 0.5
@@ -740,7 +740,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Facility
+    world: Facility_bedfight
     x: 0.5
     y: 105.0
     z: 0.5
@@ -760,7 +760,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Mirage
+    world: Mirage_bedfight
     x: -27.5
     y: 92.0
     z: 0.5
@@ -768,7 +768,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Mirage
+    world: Mirage_bedfight
     x: 50.5
     y: 99.0
     z: 20.5
@@ -776,7 +776,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Mirage
+    world: Mirage_bedfight
     x: -49.5
     y: 90.0
     z: -19.5
@@ -784,7 +784,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Mirage
+    world: Mirage_bedfight
     x: 28.5
     y: 92.0
     z: 0.5
@@ -794,7 +794,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Mirage
+    world: Mirage_bedfight
     x: 0.5
     y: 100.0
     z: 0.5
@@ -814,7 +814,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Ponsen
+    world: Ponsen_sumo
     x: -6.5
     y: 65.0
     z: 0.5
@@ -822,7 +822,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: Ponsen
+    world: Ponsen_sumo
     x: 7.5
     y: 65.0
     z: 0.5
@@ -831,7 +831,7 @@ arenas:
   display-name: Ponsen
   center:
     ==: Location
-    world: Ponsen
+    world: Ponsen_sumo
     x: 0.5
     y: 70.0
     z: 0.5
@@ -851,7 +851,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Skyport
+    world: Skyport_flat
     x: 0.5
     y: 75.0
     z: 36.5
@@ -859,7 +859,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Skyport
+    world: Skyport_flat
     x: 41.5
     y: 93.0
     z: 41.5
@@ -867,7 +867,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Skyport
+    world: Skyport_flat
     x: -40.5
     y: 75.0
     z: -40.5
@@ -875,7 +875,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Skyport
+    world: Skyport_flat
     x: 0.5
     y: 75.0
     z: -35.5
@@ -884,7 +884,7 @@ arenas:
   display-name: Skyport
   center:
     ==: Location
-    world: Skyport
+    world: Skyport_flat
     x: 0.5
     y: 85.0
     z: 0.5
@@ -909,7 +909,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Fort_Royale
+    world: Fort_Royale_sumo
     x: -5.5
     y: 72.0
     z: 0.5
@@ -917,7 +917,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Fort_Royale
+    world: Fort_Royale_sumo
     x: 10.5
     y: 70.0
     z: 10.5
@@ -925,7 +925,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Fort_Royale
+    world: Fort_Royale_sumo
     x: -9.5
     y: 80.0
     z: -9.5
@@ -933,7 +933,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Fort_Royale
+    world: Fort_Royale_sumo
     x: 6.5
     y: 72.0
     z: 0.5
@@ -942,7 +942,7 @@ arenas:
   display-name: Fortroyale
   center:
     ==: Location
-    world: Fort_Royale
+    world: Fort_Royale_sumo
     x: 0.5
     y: 75.0
     z: 0.5
@@ -969,7 +969,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Backwood
+    world: Backwood_flat
     x: -35.5
     y: 65.0
     z: 0.5
@@ -977,7 +977,7 @@ arenas:
     yaw: -90.0
   corner1:
     ==: Location
-    world: Backwood
+    world: Backwood_flat
     x: 41.5
     y: 84.0
     z: 41.5
@@ -985,7 +985,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Backwood
+    world: Backwood_flat
     x: -40.5
     y: 64.0
     z: -40.5
@@ -993,7 +993,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Backwood
+    world: Backwood_flat
     x: 36.5
     y: 65.0
     z: 0.5
@@ -1002,7 +1002,7 @@ arenas:
   display-name: Backwood
   center:
     ==: Location
-    world: Backwood
+    world: Backwood_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1027,7 +1027,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Arena
+    world: Arena_flat
     x: 0.5
     y: 68.0
     z: 35.5
@@ -1035,7 +1035,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Arena
+    world: Arena_flat
     x: 40.5
     y: 68.0
     z: 40.5
@@ -1043,7 +1043,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Arena
+    world: Arena_flat
     x: -39.5
     y: 77.0
     z: -39.5
@@ -1051,7 +1051,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Arena
+    world: Arena_flat
     x: 0.5
     y: 68.0
     z: -34.5
@@ -1060,7 +1060,7 @@ arenas:
   display-name: Arena
   center:
     ==: Location
-    world: Arena
+    world: Arena_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1085,7 +1085,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Monolith
+    world: Monolith_flat
     x: 0.5
     y: 62.0
     z: 35.5
@@ -1093,7 +1093,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Monolith
+    world: Monolith_flat
     x: 40.5
     y: 86.0
     z: 40.5
@@ -1101,7 +1101,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Monolith
+    world: Monolith_flat
     x: -39.5
     y: 61.0
     z: -39.5
@@ -1109,7 +1109,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Monolith
+    world: Monolith_flat
     x: 0.5
     y: 62.0
     z: -34.5
@@ -1118,7 +1118,7 @@ arenas:
   display-name: Monolith
   center:
     ==: Location
-    world: Monolith
+    world: Monolith_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1143,7 +1143,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Spikerock_Bays
+    world: Spikerock_Bays_shaped
     x: 0.5
     y: 75.0
     z: 37.5
@@ -1151,7 +1151,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Spikerock_Bays
+    world: Spikerock_Bays_shaped
     x: 41.5
     y: 107.0
     z: 41.5
@@ -1159,7 +1159,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Spikerock_Bays
+    world: Spikerock_Bays_shaped
     x: -40.5
     y: 75.0
     z: -40.5
@@ -1167,7 +1167,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Spikerock_Bays
+    world: Spikerock_Bays_shaped
     x: 0.5
     y: 75.0
     z: -36.5
@@ -1177,7 +1177,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Spikerock_Bays
+    world: Spikerock_Bays_shaped
     x: 0.5
     y: 90.0
     z: 0.5
@@ -1202,7 +1202,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Spikerock_Bay
+    world: Spikerock_Bay_flat
     x: 0.5
     y: 75.0
     z: 37.5
@@ -1210,7 +1210,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Spikerock_Bay
+    world: Spikerock_Bay_flat
     x: 41.5
     y: 107.0
     z: 41.5
@@ -1218,7 +1218,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Spikerock_Bay
+    world: Spikerock_Bay_flat
     x: -40.5
     y: 75.0
     z: -40.5
@@ -1226,7 +1226,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Spikerock_Bay
+    world: Spikerock_Bay_flat
     x: 0.5
     y: 75.0
     z: -36.5
@@ -1235,7 +1235,7 @@ arenas:
   display-name: Spikerock_Bay
   center:
     ==: Location
-    world: Spikerock_Bay
+    world: Spikerock_Bay_flat
     x: 0.5
     y: 90.0
     z: 0.5
@@ -1260,7 +1260,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Space_Mine
+    world: Space_Mine_sumo
     x: -6.5
     y: 65.0
     z: 0.5
@@ -1268,7 +1268,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: Space_Mine
+    world: Space_Mine_sumo
     x: 7.5
     y: 65.0
     z: 0.5
@@ -1277,7 +1277,7 @@ arenas:
   display-name: Space_Mine
   center:
     ==: Location
-    world: Space_Mine
+    world: Space_Mine_sumo
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1297,7 +1297,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Vivere
+    world: Vivere_sumo
     x: -6.5
     y: 91.0
     z: 0.5
@@ -1305,7 +1305,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: Vivere
+    world: Vivere_sumo
     x: 7.5
     y: 91.0
     z: 0.5
@@ -1314,7 +1314,7 @@ arenas:
   display-name: Vivere
   center:
     ==: Location
-    world: Vivere
+    world: Vivere_sumo
     x: 0.5
     y: 100.0
     z: 0.5
@@ -1333,7 +1333,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Fractal
+    world: Fractal_flat
     x: 0.5
     y: 65.0
     z: 36.5
@@ -1341,7 +1341,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Fractal
+    world: Fractal_flat
     x: 41.5
     y: 87.0
     z: 41.5
@@ -1349,7 +1349,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Fractal
+    world: Fractal_flat
     x: -40.5
     y: 65.0
     z: -40.5
@@ -1357,7 +1357,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Fractal
+    world: Fractal_flat
     x: 0.5
     y: 65.0
     z: -35.5
@@ -1366,7 +1366,7 @@ arenas:
   display-name: Fractal
   center:
     ==: Location
-    world: Fractal
+    world: Fractal_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -1391,7 +1391,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Museum
+    world: Museum_flat
     x: 0.5
     y: 71.0
     z: 36.5
@@ -1399,7 +1399,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Museum
+    world: Museum_flat
     x: 41.5
     y: 109.0
     z: 41.5
@@ -1407,7 +1407,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Museum
+    world: Museum_flat
     x: -40.69999998807907
     y: 70.0
     z: -40.5
@@ -1415,7 +1415,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Museum
+    world: Museum_flat
     x: 0.5
     y: 71.0
     z: -35.5
@@ -1424,7 +1424,7 @@ arenas:
   display-name: Museum
   center:
     ==: Location
-    world: Museum
+    world: Museum_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -1449,7 +1449,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Fight_Night
+    world: Fight_Night_flat
     x: 0.5
     y: 71.0
     z: 36.5
@@ -1457,7 +1457,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Fight_Night
+    world: Fight_Night_flat
     x: 41.5
     y: 94.0
     z: 41.5
@@ -1465,7 +1465,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Fight_Night
+    world: Fight_Night_flat
     x: -40.5
     y: 70.0
     z: -40.5
@@ -1473,7 +1473,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Fight_Night
+    world: Fight_Night_flat
     x: 0.5
     y: 71.0
     z: -35.5
@@ -1482,7 +1482,7 @@ arenas:
   display-name: Fight_Night
   center:
     ==: Location
-    world: Fight_Night
+    world: Fight_Night_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -1506,7 +1506,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Reef
+    world: Reef_flat
     x: 0.5
     y: 71.0
     z: 36.5
@@ -1514,7 +1514,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Reef
+    world: Reef_flat
     x: 41.5
     y: 124.0
     z: 41.5
@@ -1522,7 +1522,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Reef
+    world: Reef_flat
     x: -40.5
     y: 70.0
     z: -40.5
@@ -1530,7 +1530,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Reef
+    world: Reef_flat
     x: 0.5
     y: 71.0
     z: -35.5
@@ -1539,7 +1539,7 @@ arenas:
   display-name: Reef
   center:
     ==: Location
-    world: Reef
+    world: Reef_flat
     x: 0.5
     y: 80.0
     z: 0.5
@@ -1563,7 +1563,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Abstract
+    world: Abstract_flat
     x: 0.5
     y: 62.0
     z: 36.5
@@ -1571,7 +1571,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Abstract
+    world: Abstract_flat
     x: -39.5
     y: 87.0
     z: 41.5
@@ -1579,7 +1579,7 @@ arenas:
     yaw: -180.0
   corner2:
     ==: Location
-    world: Abstract
+    world: Abstract_flat
     x: 40.5
     y: 61.0
     z: -39.5
@@ -1587,7 +1587,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Abstract
+    world: Abstract_flat
     x: 0.5
     y: 62.0
     z: -35.5
@@ -1596,7 +1596,7 @@ arenas:
   display-name: Abstract
   center:
     ==: Location
-    world: Abstract
+    world: Abstract_flat
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1621,7 +1621,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: White_Crystal
+    world: White_Crystal_sumo
     x: -6.5
     y: 65.0
     z: 0.5
@@ -1629,7 +1629,7 @@ arenas:
     yaw: -90.0
   loc1:
     ==: Location
-    world: White_Crystal
+    world: White_Crystal_sumo
     x: 7.5
     y: 65.0
     z: 0.5
@@ -1638,7 +1638,7 @@ arenas:
   display-name: White_Crystal
   center:
     ==: Location
-    world: White_Crystal
+    world: White_Crystal_sumo
     x: 0.5
     y: 70.0
     z: 0.5
@@ -1657,7 +1657,7 @@ arenas:
 - ==: Arena
   loc2:
     ==: Location
-    world: Fight_Nights
+    world: Fight_Nights_shaped
     x: 0.5
     y: 71.0
     z: 36.5
@@ -1665,7 +1665,7 @@ arenas:
     yaw: -180.0
   corner1:
     ==: Location
-    world: Fight_Nights
+    world: Fight_Nights_shaped
     x: 41.5
     y: 94.0
     z: 41.5
@@ -1673,7 +1673,7 @@ arenas:
     yaw: 0.0
   corner2:
     ==: Location
-    world: Fight_Nights
+    world: Fight_Nights_shaped
     x: -40.5
     y: 70.0
     z: -40.5
@@ -1681,7 +1681,7 @@ arenas:
     yaw: 0.0
   loc1:
     ==: Location
-    world: Fight_Nights
+    world: Fight_Nights_shaped
     x: 0.5
     y: 71.0
     z: -35.5
@@ -1691,7 +1691,7 @@ arenas:
   build: true
   center:
     ==: Location
-    world: Fight_Nights
+    world: Fight_Nights_shaped
     x: 0.5
     y: 80.0
     z: 0.5

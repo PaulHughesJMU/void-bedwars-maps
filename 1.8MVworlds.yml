@@ -1,5 +1,5 @@
 worlds:
-  Sumo:
+  Sumo_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: ''
@@ -47,7 +47,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Harbor:
+  Harbor_bedfight:
     ==: MVWorld
     hidden: 'false'
     alias: Harbor
@@ -95,7 +95,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Spikerock_Bay:
+  Spikerock_Bay_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Spikerock_Bay
@@ -143,7 +143,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Barracuda_Bay:
+  Barracuda_Bay_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Barracuda_Bay
@@ -191,7 +191,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Vivere:
+  Vivere_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: Vivere
@@ -239,7 +239,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Reefs:
+  Reefs_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Reefs
@@ -287,7 +287,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Zhulongs:
+  Zhulongs_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Zhulongs
@@ -335,7 +335,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Spikerock_Bays:
+  Spikerock_Bays_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Spikerock_Bays
@@ -383,7 +383,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Reef:
+  Reef_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Reef
@@ -431,7 +431,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Fractal:
+  Fractal_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Fractal
@@ -527,7 +527,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Shans:
+  Shans_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Shans
@@ -575,7 +575,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Skyport:
+  Skyport_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Skyport
@@ -623,7 +623,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Ponsen:
+  Ponsen_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: Ponsen
@@ -671,7 +671,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  White_Crystal:
+  White_Crystal_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: ''
@@ -719,7 +719,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Backwood:
+  Backwood_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Backwood
@@ -767,7 +767,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Chicken_Jockey:
+  Chicken_Jockey_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Chicken_Jockey
@@ -815,7 +815,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Digit:
+  Digit_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: Digit
@@ -863,7 +863,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Fort_Royale:
+  Fort_Royale_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: Fort_Royale
@@ -911,7 +911,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Monolith:
+  Monolith_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Monolith
@@ -959,7 +959,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Abstract:
+  Abstract_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Abstract
@@ -1007,7 +1007,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Museums:
+  Museums_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Museums
@@ -1055,7 +1055,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Mirage:
+  Mirage_bedfight:
     ==: MVWorld
     hidden: 'false'
     alias: Mirage
@@ -1103,7 +1103,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Arena:
+  Arena_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Arena
@@ -1151,7 +1151,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Fight_Nights:
+  Fight_Nights_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Fight_Nights
@@ -1199,7 +1199,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Zhulong:
+  Zhulong_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Zhulong
@@ -1247,7 +1247,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Cage_Fights:
+  Cage_Fights_shaped:
     ==: MVWorld
     hidden: 'false'
     alias: Cage_Fights
@@ -1295,7 +1295,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Coastline:
+  Coastline_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Coastline
@@ -1343,7 +1343,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Cage_Fight:
+  Cage_Fight_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Cage_Fight
@@ -1391,7 +1391,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Museum:
+  Museum_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Museum
@@ -1439,7 +1439,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Facility:
+  Facility_bedfight:
     ==: MVWorld
     hidden: 'false'
     alias: Facility
@@ -1487,7 +1487,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Fight_Night:
+  Fight_Night_flat:
     ==: MVWorld
     hidden: 'false'
     alias: Fight_Night
@@ -1535,7 +1535,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Space_Mine:
+  Space_Mine_sumo:
     ==: MVWorld
     hidden: 'false'
     alias: Space_Mine

@@ -414,6 +414,16 @@ def _has_chunks(src):
         return False
 
 
+# same map names repeat across modes (archway is 2v2 and 4v4v4v4), so every world gets its mode appended
+MODE_TAGS = {"Bedwars2v2(4v4,SoloModded)": "2v2", "Bedwars4v4v4v4(3v3v3v3)": "4v4v4v4",
+             "BedwarsRush(SoloModded)": "rush", "BedwarsSolo(doubles)": "solo", "Bedfight(BedwarsRushDuel)": "bedfight",
+             "DuelsFlat": "flat", "DuelsShaped": "shaped", "DuelsSumo": "sumo"}
+
+
+def mode_tag(mode):
+    return MODE_TAGS.get(mode) or re.sub(r"\(.*?\)", "", mode).lower()
+
+
 def tree_jobs(src_root, out_root):
     jobs = []
     hyp = os.path.join(src_root, "Hypixel")
@@ -424,10 +434,11 @@ def tree_jobs(src_root, out_root):
         if os.path.isdir(os.path.join(md, "World")):
             names = set(os.listdir(os.path.join(md, "World")))
             names |= {n[:-4] for n in os.listdir(os.path.join(md, "Cache")) if n.endswith(".zip")}
-            for n in sorted(names):
-                arena = os.path.join(md, "Arenas", n + ".yml")
-                cands = [os.path.join(md, "World", n), os.path.join(md, "Cache", n + ".zip")]
-                jobs.append(dict(root=src_root, out=out_root, mode=mode, name=n, cands=cands, arena=arena if os.path.isfile(arena) else None,
+            for o in sorted(names):
+                n = "%s_%s" % (o, mode_tag(mode))
+                arena = os.path.join(md, "Arenas", o + ".yml")
+                cands = [os.path.join(md, "World", o), os.path.join(md, "Cache", o + ".zip")]
+                jobs.append(dict(root=src_root, out=out_root, mode=mode, name=n, orig=o, cands=cands, arena=arena if os.path.isfile(arena) else None,
                                  out_world=os.path.join(od, "World", n),
                                  out_zip=os.path.join(od, "Cache", n + ".zip") if os.path.isfile(arena) else None,
                                  out_arena=os.path.join(od, "Arenas", n + ".yml"),
@@ -435,10 +446,11 @@ def tree_jobs(src_root, out_root):
                                  out_preview=os.path.join(od, "Previews", n + ".png")))
         else:
             for z in sorted(f for f in os.listdir(md) if f.endswith(".zip")):
-                n = z[:-4]
-                jobs.append(dict(root=src_root, out=out_root, mode=mode, name=n, cands=[os.path.join(md, z)], arena=None,
-                                 out_world=os.path.join(out_root, ".work", mode, n),
-                                 out_zip=os.path.join(od, z), out_arena=None,
+                o = z[:-4]
+                n = "%s_%s" % (o, mode_tag(mode))
+                jobs.append(dict(root=src_root, out=out_root, mode=mode, name=n, orig=o, cands=[os.path.join(md, z)],
+                                 arena=None, out_world=os.path.join(out_root, ".work", mode, n),
+                                 out_zip=os.path.join(od, n + ".zip"), out_arena=None,
                                  out_schematic=os.path.join(od, "Schematics", n + ".schematic"),
                                  out_preview=os.path.join(od, "Previews", n + ".png")))
     return jobs
@@ -447,17 +459,24 @@ def tree_jobs(src_root, out_root):
 def run_job(j):
     src = next((c for c in j["cands"] if os.path.exists(c) and _has_chunks(c)), None)
     if src is None:
-        return {"mode": j["mode"], "name": j["name"], "error": "source world is empty or unreadable",
+        return {"mode": j["mode"], "name": j["name"], "originalName": j["orig"], "error": "source world is empty or unreadable",
                 "source": [os.path.relpath(c, j["root"]).replace("\\", "/") for c in j["cands"]]}
     info = convert(src, j["name"], j["out_world"], read_arena(j["arena"]), j["out_zip"],
                    j["out_schematic"], j["out_preview"])
     info["mode"] = j["mode"]
+    info["originalName"] = j["orig"]
     info["source"] = os.path.relpath(src, j["root"]).replace("\\", "/")
     if "error" in info:
         return info
     if j["arena"]:
         os.makedirs(os.path.dirname(j["out_arena"]), exist_ok=True)
-        shutil.copyfile(j["arena"], j["out_arena"])
+        with open(j["arena"], encoding="utf-8") as f:
+            text = f.read()
+        # an empty display-name shows the world name in game; keep showing the map's real name
+        title = j["orig"].replace("_", " ").title()
+        text = re.sub(r"^display-name: *(''|\"\")? *$", "display-name: " + title, text, flags=re.M)
+        with open(j["out_arena"], "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
     rel = lambda p: os.path.relpath(p, j["out"]).replace("\\", "/")
     info["files"] = {k: rel(j["out_" + k]) for k in ("world", "zip", "arena", "schematic", "preview")
                      if j.get("out_" + k) and os.path.exists(j["out_" + k]) and ".work" not in j["out_" + k]}
@@ -490,9 +509,16 @@ def main():
                                       info.get("error") or "%d chunks %s %s" % (info["chunks"], info["size"], w)),
                   flush=True)
     shutil.rmtree(os.path.join(args.out, ".work"), ignore_errors=True)
+    renames = {r["originalName"]: r["name"] for r in results if "error" not in r and "world" not in r["files"]}
     for f in os.listdir(args.src):
         if f.endswith(".yml"):
-            shutil.copyfile(os.path.join(args.src, f), os.path.join(args.out, f))
+            with open(os.path.join(args.src, f), encoding="utf-8") as fh:
+                text = fh.read()
+            for o, n in renames.items():
+                text = re.sub(r"(world: *)%s *$" % re.escape(o), r"\g<1>" + n, text, flags=re.M)
+                text = re.sub(r"^( *)%s:$" % re.escape(o), r"\g<1>" + n + ":", text, flags=re.M)
+            with open(os.path.join(args.out, f), "w", encoding="utf-8", newline="\n") as fh:
+                fh.write(text)
     with open(os.path.join(args.out, "maps.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, indent=1)
     with open(os.path.join(args.out, "MAPS.md"), "w", encoding="utf-8") as f:

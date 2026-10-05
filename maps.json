@@ -1,6 +1,6 @@
 [
  {
-  "name": "Facility",
+  "name": "Facility_bedfight",
   "source": "Hypixel/Bedfight(BedwarsRushDuel)/Facility.zip",
   "warnings": [],
   "min": [
@@ -31,14 +31,15 @@
   "blocks": 14792,
   "hadLevelDat": true,
   "mode": "Bedfight(BedwarsRushDuel)",
+  "originalName": "Facility",
   "files": {
-   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Facility.zip",
-   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Facility.schematic",
-   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Facility.png"
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Facility_bedfight.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Facility_bedfight.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Facility_bedfight.png"
   }
  },
  {
-  "name": "Harbor",
+  "name": "Harbor_bedfight",
   "source": "Hypixel/Bedfight(BedwarsRushDuel)/Harbor.zip",
   "warnings": [],
   "min": [
@@ -69,14 +70,15 @@
   "blocks": 7078,
   "hadLevelDat": true,
   "mode": "Bedfight(BedwarsRushDuel)",
+  "originalName": "Harbor",
   "files": {
-   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Harbor.zip",
-   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Harbor.schematic",
-   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Harbor.png"
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Harbor_bedfight.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Harbor_bedfight.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Harbor_bedfight.png"
   }
  },
  {
-  "name": "Mirage",
+  "name": "Mirage_bedfight",
   "source": "Hypixel/Bedfight(BedwarsRushDuel)/Mirage.zip",
   "warnings": [],
   "min": [
@@ -107,14 +109,15 @@
   "blocks": 21432,
   "hadLevelDat": true,
   "mode": "Bedfight(BedwarsRushDuel)",
+  "originalName": "Mirage",
   "files": {
-   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Mirage.zip",
-   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Mirage.schematic",
-   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Mirage.png"
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Mirage_bedfight.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Mirage_bedfight.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Mirage_bedfight.png"
   }
  },
  {
-  "name": "acropolis",
+  "name": "acropolis_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/acropolis",
   "warnings": [],
   "min": [
@@ -151,16 +154,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "acropolis",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/acropolis",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/acropolis.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/acropolis.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/acropolis.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/acropolis.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/acropolis_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/acropolis_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/acropolis_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/acropolis_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/acropolis_2v2.png"
   }
  },
  {
-  "name": "archway",
+  "name": "archway_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/archway",
   "warnings": [],
   "min": [
@@ -197,16 +201,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "archway",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/archway",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/archway.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/archway.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/archway.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/archway.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/archway_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/archway_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/archway_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/archway_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/archway_2v2.png"
   }
  },
  {
-  "name": "babylon",
+  "name": "babylon_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/babylon",
   "warnings": [],
   "min": [
@@ -243,16 +248,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "babylon",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/babylon",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/babylon.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/babylon.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/babylon.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/babylon.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/babylon_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/babylon_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/babylon_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/babylon_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/babylon_2v2.png"
   }
  },
  {
-  "name": "cryptic",
+  "name": "cryptic_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/cryptic",
   "warnings": [],
   "min": [
@@ -289,16 +295,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "cryptic",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/cryptic",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/cryptic.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/cryptic.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/cryptic.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/cryptic.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/cryptic_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/cryptic_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/cryptic_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/cryptic_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/cryptic_2v2.png"
   }
  },
  {
-  "name": "glacier",
+  "name": "glacier_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/glacier",
   "warnings": [],
   "min": [
@@ -335,16 +342,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "glacier",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/glacier",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/glacier.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/glacier.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/glacier.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/glacier.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/glacier_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/glacier_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/glacier_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/glacier_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/glacier_2v2.png"
   }
  },
  {
-  "name": "ruins",
+  "name": "ruins_2v2",
   "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/ruins",
   "warnings": [],
   "min": [
@@ -381,16 +389,17 @@
   ],
   "maxInTeam": 2,
   "mode": "Bedwars2v2(4v4,SoloModded)",
+  "originalName": "ruins",
   "files": {
-   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/ruins",
-   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/ruins.zip",
-   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/ruins.yml",
-   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/ruins.schematic",
-   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/ruins.png"
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/ruins_2v2",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/ruins_2v2.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/ruins_2v2.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/ruins_2v2.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/ruins_2v2.png"
   }
  },
  {
-  "name": "aquarium",
+  "name": "aquarium_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/aquarium",
   "warnings": [],
   "min": [
@@ -429,16 +438,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "aquarium",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/aquarium",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/aquarium.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/aquarium.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/aquarium.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/aquarium.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/aquarium_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/aquarium_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/aquarium_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/aquarium_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/aquarium_4v4v4v4.png"
   }
  },
  {
-  "name": "archway",
+  "name": "archway_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/archway",
   "warnings": [],
   "min": [
@@ -477,16 +487,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "archway",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/archway",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/archway.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/archway.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/archway.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/archway.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/archway_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/archway_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/archway_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/archway_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/archway_4v4v4v4.png"
   }
  },
  {
-  "name": "artemis",
+  "name": "artemis_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/artemis",
   "warnings": [],
   "min": [
@@ -525,16 +536,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "artemis",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/artemis",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/artemis.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/artemis.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/artemis.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/artemis.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/artemis_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/artemis_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/artemis_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/artemis_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/artemis_4v4v4v4.png"
   }
  },
  {
-  "name": "ashore",
+  "name": "ashore_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/ashore",
   "warnings": [],
   "min": [
@@ -573,16 +585,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "ashore",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/ashore",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/ashore.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/ashore.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/ashore.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/ashore.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/ashore_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/ashore_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/ashore_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/ashore_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/ashore_4v4v4v4.png"
   }
  },
  {
-  "name": "boletum",
+  "name": "boletum_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/boletum",
   "warnings": [],
   "min": [
@@ -621,16 +634,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "boletum",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/boletum",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/boletum.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/boletum.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/boletum.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/boletum.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/boletum_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/boletum_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/boletum_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/boletum_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/boletum_4v4v4v4.png"
   }
  },
  {
-  "name": "build_site",
+  "name": "build_site_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/build_site",
   "warnings": [],
   "min": [
@@ -669,16 +683,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "build_site",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/build_site",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/build_site.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/build_site.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/build_site.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/build_site.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/build_site_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/build_site_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/build_site_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/build_site_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/build_site_4v4v4v4.png"
   }
  },
  {
-  "name": "carapace",
+  "name": "carapace_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/carapace",
   "warnings": [],
   "min": [
@@ -717,16 +732,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "carapace",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/carapace",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/carapace.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/carapace.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/carapace.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/carapace.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/carapace_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/carapace_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/carapace_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/carapace_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/carapace_4v4v4v4.png"
   }
  },
  {
-  "name": "catalyst",
+  "name": "catalyst_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/catalyst",
   "warnings": [],
   "min": [
@@ -765,16 +781,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "catalyst",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/catalyst",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/catalyst.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/catalyst.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/catalyst.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/catalyst.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/catalyst_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/catalyst_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/catalyst_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/catalyst_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/catalyst_4v4v4v4.png"
   }
  },
  {
-  "name": "chained",
+  "name": "chained_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/chained",
   "warnings": [],
   "min": [
@@ -805,14 +822,15 @@
   "blocks": 45760,
   "hadLevelDat": true,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "chained",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/chained",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/chained.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/chained.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/chained_4v4v4v4",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/chained_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/chained_4v4v4v4.png"
   }
  },
  {
-  "name": "daolong",
+  "name": "daolong_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/daolong",
   "warnings": [],
   "min": [
@@ -851,16 +869,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "daolong",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/daolong",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/daolong.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/daolong.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/daolong.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/daolong.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/daolong_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/daolong_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/daolong_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/daolong_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/daolong_4v4v4v4.png"
   }
  },
  {
-  "name": "deposit",
+  "name": "deposit_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/deposit",
   "warnings": [],
   "min": [
@@ -899,16 +918,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "deposit",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/deposit",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/deposit.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/deposit.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/deposit.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/deposit.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/deposit_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/deposit_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/deposit_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/deposit_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/deposit_4v4v4v4.png"
   }
  },
  {
-  "name": "dreamgrove",
+  "name": "dreamgrove_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/dreamgrove",
   "warnings": [],
   "min": [
@@ -947,16 +967,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "dreamgrove",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/dreamgrove",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/dreamgrove.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/dreamgrove.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/dreamgrove.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/dreamgrove.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/dreamgrove_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/dreamgrove_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/dreamgrove_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/dreamgrove_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/dreamgrove_4v4v4v4.png"
   }
  },
  {
-  "name": "eastwood",
+  "name": "eastwood_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/eastwood",
   "warnings": [],
   "min": [
@@ -995,16 +1016,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "eastwood",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/eastwood",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/eastwood.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/eastwood.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/eastwood.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/eastwood.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/eastwood_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/eastwood_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/eastwood_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/eastwood_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/eastwood_4v4v4v4.png"
   }
  },
  {
-  "name": "enchanted",
+  "name": "enchanted_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/enchanted",
   "warnings": [],
   "min": [
@@ -1043,16 +1065,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "enchanted",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/enchanted",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/enchanted.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/enchanted.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/enchanted.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/enchanted.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/enchanted_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/enchanted_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/enchanted_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/enchanted_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/enchanted_4v4v4v4.png"
   }
  },
  {
-  "name": "extinction",
+  "name": "extinction_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/extinction",
   "warnings": [],
   "min": [
@@ -1091,16 +1114,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "extinction",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/extinction",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/extinction.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/extinction.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/extinction.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/extinction.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/extinction_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/extinction_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/extinction_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/extinction_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/extinction_4v4v4v4.png"
   }
  },
  {
-  "name": "fang_outpost",
+  "name": "fang_outpost_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fang_outpost",
   "warnings": [],
   "min": [
@@ -1139,16 +1163,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "fang_outpost",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fang_outpost",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fang_outpost.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fang_outpost.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fang_outpost.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fang_outpost.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fang_outpost_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fang_outpost_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fang_outpost_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fang_outpost_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fang_outpost_4v4v4v4.png"
   }
  },
  {
-  "name": "fort_doon",
+  "name": "fort_doon_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fort_doon",
   "warnings": [],
   "min": [
@@ -1187,16 +1212,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "fort_doon",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fort_doon",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fort_doon.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fort_doon.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fort_doon.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fort_doon.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fort_doon_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fort_doon_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fort_doon_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fort_doon_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fort_doon_4v4v4v4.png"
   }
  },
  {
-  "name": "frogiton",
+  "name": "frogiton_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/frogiton",
   "warnings": [],
   "min": [
@@ -1235,16 +1261,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "frogiton",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/frogiton",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/frogiton.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/frogiton.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/frogiton.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/frogiton.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/frogiton_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/frogiton_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/frogiton_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/frogiton_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/frogiton_4v4v4v4.png"
   }
  },
  {
-  "name": "graveship",
+  "name": "graveship_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/graveship",
   "warnings": [],
   "min": [
@@ -1283,16 +1310,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "graveship",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/graveship",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/graveship.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/graveship.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/graveship.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/graveship.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/graveship_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/graveship_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/graveship_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/graveship_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/graveship_4v4v4v4.png"
   }
  },
  {
-  "name": "holmgang",
+  "name": "holmgang_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/holmgang",
   "warnings": [],
   "min": [
@@ -1331,16 +1359,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "holmgang",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/holmgang",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/holmgang.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/holmgang.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/holmgang.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/holmgang.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/holmgang_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/holmgang_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/holmgang_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/holmgang_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/holmgang_4v4v4v4.png"
   }
  },
  {
-  "name": "horizon",
+  "name": "horizon_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/horizon",
   "warnings": [],
   "min": [
@@ -1379,16 +1408,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "horizon",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/horizon",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/horizon.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/horizon.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/horizon.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/horizon.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/horizon_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/horizon_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/horizon_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/horizon_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/horizon_4v4v4v4.png"
   }
  },
  {
-  "name": "infinite",
+  "name": "infinite_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/infinite",
   "warnings": [],
   "min": [
@@ -1427,16 +1457,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "infinite",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/infinite",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/infinite.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/infinite.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/infinite.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/infinite.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/infinite_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/infinite_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/infinite_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/infinite_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/infinite_4v4v4v4.png"
   }
  },
  {
-  "name": "invasion",
+  "name": "invasion_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/invasion",
   "warnings": [],
   "min": [
@@ -1475,16 +1506,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "invasion",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/invasion",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/invasion.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/invasion.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/invasion.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/invasion.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/invasion_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/invasion_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/invasion_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/invasion_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/invasion_4v4v4v4.png"
   }
  },
  {
-  "name": "jurassic",
+  "name": "jurassic_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/jurassic",
   "warnings": [],
   "min": [
@@ -1523,16 +1555,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "jurassic",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/jurassic",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/jurassic.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/jurassic.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/jurassic.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/jurassic.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/jurassic_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/jurassic_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/jurassic_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/jurassic_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/jurassic_4v4v4v4.png"
   }
  },
  {
-  "name": "katsu",
+  "name": "katsu_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/katsu",
   "warnings": [],
   "min": [
@@ -1571,16 +1604,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "katsu",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/katsu",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/katsu.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/katsu.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/katsu.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/katsu.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/katsu_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/katsu_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/katsu_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/katsu_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/katsu_4v4v4v4.png"
   }
  },
  {
-  "name": "kubo",
+  "name": "kubo_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/kubo",
   "warnings": [],
   "min": [
@@ -1619,16 +1653,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "kubo",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/kubo",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/kubo.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/kubo.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/kubo.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/kubo.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/kubo_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/kubo_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/kubo_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/kubo_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/kubo_4v4v4v4.png"
   }
  },
  {
-  "name": "lectus",
+  "name": "lectus_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lectus",
   "warnings": [],
   "min": [
@@ -1667,16 +1702,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "lectus",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lectus",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/lectus.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/lectus.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lectus.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lectus.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lectus_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/lectus_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/lectus_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lectus_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lectus_4v4v4v4.png"
   }
  },
  {
-  "name": "lobby",
+  "name": "lobby_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lobby",
   "warnings": [],
   "min": [
@@ -1707,14 +1743,15 @@
   "blocks": 315448,
   "hadLevelDat": true,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "lobby",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lobby",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lobby.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lobby.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lobby_4v4v4v4",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lobby_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lobby_4v4v4v4.png"
   }
  },
  {
-  "name": "obelisk",
+  "name": "obelisk_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/obelisk",
   "warnings": [],
   "min": [
@@ -1753,16 +1790,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "obelisk",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/obelisk",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/obelisk.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/obelisk.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/obelisk.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/obelisk.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/obelisk_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/obelisk_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/obelisk_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/obelisk_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/obelisk_4v4v4v4.png"
   }
  },
  {
-  "name": "orchid",
+  "name": "orchid_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/orchid",
   "warnings": [],
   "min": [
@@ -1801,16 +1839,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "orchid",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/orchid",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/orchid.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/orchid.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/orchid.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/orchid.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/orchid_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/orchid_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/orchid_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/orchid_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/orchid_4v4v4v4.png"
   }
  },
  {
-  "name": "paladin",
+  "name": "paladin_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paladin",
   "warnings": [],
   "min": [
@@ -1849,16 +1888,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "paladin",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paladin",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paladin.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paladin.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paladin.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paladin.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paladin_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paladin_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paladin_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paladin_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paladin_4v4v4v4.png"
   }
  },
  {
-  "name": "paradox",
+  "name": "paradox_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paradox",
   "warnings": [],
   "min": [
@@ -1897,16 +1937,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "paradox",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paradox",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paradox.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paradox.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paradox.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paradox.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paradox_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paradox_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paradox_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paradox_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paradox_4v4v4v4.png"
   }
  },
  {
-  "name": "pharaoh",
+  "name": "pharaoh_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pharaoh",
   "warnings": [],
   "min": [
@@ -1945,16 +1986,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "pharaoh",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pharaoh",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pharaoh.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pharaoh.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pharaoh.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pharaoh.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pharaoh_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pharaoh_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pharaoh_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pharaoh_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pharaoh_4v4v4v4.png"
   }
  },
  {
-  "name": "planet_98",
+  "name": "planet_98_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/planet_98",
   "warnings": [],
   "min": [
@@ -1993,16 +2035,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "planet_98",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/planet_98",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/planet_98.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/planet_98.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/planet_98.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/planet_98.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/planet_98_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/planet_98_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/planet_98_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/planet_98_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/planet_98_4v4v4v4.png"
   }
  },
  {
-  "name": "pool_party",
+  "name": "pool_party_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pool_party",
   "warnings": [],
   "min": [
@@ -2041,16 +2084,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "pool_party",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pool_party",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pool_party.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pool_party.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pool_party.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pool_party.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pool_party_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pool_party_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pool_party_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pool_party_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pool_party_4v4v4v4.png"
   }
  },
  {
-  "name": "raze",
+  "name": "raze_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/raze",
   "warnings": [],
   "min": [
@@ -2089,16 +2133,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "raze",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/raze",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/raze.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/raze.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/raze.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/raze.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/raze_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/raze_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/raze_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/raze_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/raze_4v4v4v4.png"
   }
  },
  {
-  "name": "relic",
+  "name": "relic_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/relic",
   "warnings": [],
   "min": [
@@ -2137,17 +2182,19 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "relic",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/relic",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/relic.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/relic.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/relic.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/relic.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/relic_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/relic_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/relic_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/relic_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/relic_4v4v4v4.png"
   }
  },
  {
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
-  "name": "rise",
+  "name": "rise_4v4v4v4",
+  "originalName": "rise",
   "error": "source world is empty or unreadable",
   "source": [
    "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/rise",
@@ -2155,7 +2202,7 @@
   ]
  },
  {
-  "name": "stilted",
+  "name": "stilted_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stilted",
   "warnings": [],
   "min": [
@@ -2194,16 +2241,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "stilted",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stilted",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stilted.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stilted.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stilted.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stilted.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stilted_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stilted_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stilted_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stilted_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stilted_4v4v4v4.png"
   }
  },
  {
-  "name": "stonekeep",
+  "name": "stonekeep_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stonekeep",
   "warnings": [],
   "min": [
@@ -2242,16 +2290,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "stonekeep",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stonekeep",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stonekeep.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stonekeep.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stonekeep.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stonekeep.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stonekeep_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stonekeep_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stonekeep_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stonekeep_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stonekeep_4v4v4v4.png"
   }
  },
  {
-  "name": "swashbuckle",
+  "name": "swashbuckle_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/swashbuckle",
   "warnings": [],
   "min": [
@@ -2290,16 +2339,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "swashbuckle",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/swashbuckle",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/swashbuckle.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/swashbuckle.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/swashbuckle.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/swashbuckle.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/swashbuckle_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/swashbuckle_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/swashbuckle_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/swashbuckle_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/swashbuckle_4v4v4v4.png"
   }
  },
  {
-  "name": "temple",
+  "name": "temple_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/temple",
   "warnings": [],
   "min": [
@@ -2338,16 +2388,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "temple",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/temple",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/temple.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/temple.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/temple.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/temple.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/temple_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/temple_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/temple_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/temple_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/temple_4v4v4v4.png"
   }
  },
  {
-  "name": "terminal",
+  "name": "terminal_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/terminal",
   "warnings": [],
   "min": [
@@ -2386,16 +2437,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "terminal",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/terminal",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/terminal.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/terminal.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/terminal.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/terminal.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/terminal_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/terminal_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/terminal_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/terminal_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/terminal_4v4v4v4.png"
   }
  },
  {
-  "name": "treenan",
+  "name": "treenan_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/treenan",
   "warnings": [],
   "min": [
@@ -2434,16 +2486,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "treenan",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/treenan",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/treenan.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/treenan.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/treenan.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/treenan.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/treenan_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/treenan_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/treenan_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/treenan_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/treenan_4v4v4v4.png"
   }
  },
  {
-  "name": "unturned",
+  "name": "unturned_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/unturned",
   "warnings": [],
   "min": [
@@ -2482,16 +2535,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "unturned",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/unturned",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/unturned.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/unturned.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/unturned.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/unturned.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/unturned_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/unturned_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/unturned_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/unturned_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/unturned_4v4v4v4.png"
   }
  },
  {
-  "name": "zen_plaza",
+  "name": "zen_plaza_4v4v4v4",
   "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/zen_plaza",
   "warnings": [],
   "min": [
@@ -2530,16 +2584,17 @@
   ],
   "maxInTeam": 4,
   "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "originalName": "zen_plaza",
   "files": {
-   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/zen_plaza",
-   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/zen_plaza.zip",
-   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/zen_plaza.yml",
-   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/zen_plaza.schematic",
-   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/zen_plaza.png"
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/zen_plaza_4v4v4v4",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/zen_plaza_4v4v4v4.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/zen_plaza_4v4v4v4.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/zen_plaza_4v4v4v4.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/zen_plaza_4v4v4v4.png"
   }
  },
  {
-  "name": "ambush",
+  "name": "ambush_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/ambush",
   "warnings": [],
   "min": [
@@ -2576,16 +2631,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "ambush",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/ambush",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/ambush.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/ambush.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/ambush.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/ambush.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/ambush_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/ambush_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/ambush_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/ambush_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/ambush_rush.png"
   }
  },
  {
-  "name": "apollo",
+  "name": "apollo_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/apollo",
   "warnings": [],
   "min": [
@@ -2622,16 +2678,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "apollo",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/apollo",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/apollo.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/apollo.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/apollo.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/apollo.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/apollo_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/apollo_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/apollo_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/apollo_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/apollo_rush.png"
   }
  },
  {
-  "name": "aqil",
+  "name": "aqil_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/aqil",
   "warnings": [],
   "min": [
@@ -2668,16 +2725,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "aqil",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/aqil",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/aqil.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/aqil.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/aqil.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/aqil.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/aqil_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/aqil_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/aqil_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/aqil_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/aqil_rush.png"
   }
  },
  {
-  "name": "dragonstar",
+  "name": "dragonstar_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/dragonstar",
   "warnings": [],
   "min": [
@@ -2714,16 +2772,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "dragonstar",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/dragonstar",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/dragonstar.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/dragonstar.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/dragonstar.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/dragonstar.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/dragonstar_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/dragonstar_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/dragonstar_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/dragonstar_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/dragonstar_rush.png"
   }
  },
  {
-  "name": "lotus",
+  "name": "lotus_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/lotus",
   "warnings": [],
   "min": [
@@ -2760,16 +2819,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "lotus",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/lotus",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/lotus.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/lotus.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/lotus.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/lotus.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/lotus_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/lotus_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/lotus_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/lotus_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/lotus_rush.png"
   }
  },
  {
-  "name": "pernicious",
+  "name": "pernicious_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/pernicious",
   "warnings": [],
   "min": [
@@ -2806,16 +2866,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "pernicious",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/pernicious",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/pernicious.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/pernicious.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/pernicious.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/pernicious.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/pernicious_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/pernicious_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/pernicious_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/pernicious_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/pernicious_rush.png"
   }
  },
  {
-  "name": "rooftop",
+  "name": "rooftop_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/rooftop",
   "warnings": [],
   "min": [
@@ -2852,16 +2913,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "rooftop",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/rooftop",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/rooftop.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/rooftop.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/rooftop.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/rooftop.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/rooftop_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/rooftop_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/rooftop_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/rooftop_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/rooftop_rush.png"
   }
  },
  {
-  "name": "scorched_sands",
+  "name": "scorched_sands_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/scorched_sands",
   "warnings": [],
   "min": [
@@ -2898,16 +2960,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "scorched_sands",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/scorched_sands",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/scorched_sands.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/scorched_sands.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/scorched_sands.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/scorched_sands.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/scorched_sands_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/scorched_sands_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/scorched_sands_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/scorched_sands_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/scorched_sands_rush.png"
   }
  },
  {
-  "name": "speedway",
+  "name": "speedway_rush",
   "source": "Hypixel/BedwarsRush(SoloModded)/World/speedway",
   "warnings": [],
   "min": [
@@ -2944,16 +3007,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsRush(SoloModded)",
+  "originalName": "speedway",
   "files": {
-   "world": "Hypixel/BedwarsRush(SoloModded)/World/speedway",
-   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/speedway.zip",
-   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/speedway.yml",
-   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/speedway.schematic",
-   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/speedway.png"
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/speedway_rush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/speedway_rush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/speedway_rush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/speedway_rush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/speedway_rush.png"
   }
  },
  {
-  "name": "acropolis",
+  "name": "acropolis_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/acropolis",
   "warnings": [],
   "min": [
@@ -2996,16 +3060,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "acropolis",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/acropolis",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/acropolis.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/acropolis.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/acropolis.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/acropolis.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/acropolis_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/acropolis_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/acropolis_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/acropolis_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/acropolis_solo.png"
   }
  },
  {
-  "name": "airshow",
+  "name": "airshow_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/airshow",
   "warnings": [],
   "min": [
@@ -3048,16 +3113,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "airshow",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/airshow",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/airshow.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/airshow.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/airshow.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/airshow.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/airshow_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/airshow_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/airshow_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/airshow_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/airshow_solo.png"
   }
  },
  {
-  "name": "amazon",
+  "name": "amazon_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/amazon",
   "warnings": [],
   "min": [
@@ -3100,16 +3166,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "amazon",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/amazon",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/amazon.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/amazon.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/amazon.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/amazon.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/amazon_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/amazon_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/amazon_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/amazon_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/amazon_solo.png"
   }
  },
  {
-  "name": "ambush",
+  "name": "ambush_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/ambush",
   "warnings": [],
   "min": [
@@ -3152,16 +3219,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "ambush",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/ambush",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ambush.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ambush.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ambush.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ambush.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ambush_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ambush_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ambush_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ambush_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ambush_solo.png"
   }
  },
  {
-  "name": "apollo",
+  "name": "apollo_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/apollo",
   "warnings": [],
   "min": [
@@ -3204,16 +3272,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "apollo",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/apollo",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/apollo.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/apollo.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/apollo.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/apollo.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/apollo_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/apollo_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/apollo_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/apollo_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/apollo_solo.png"
   }
  },
  {
-  "name": "aqil",
+  "name": "aqil_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/aqil",
   "warnings": [],
   "min": [
@@ -3256,16 +3325,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "aqil",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/aqil",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/aqil.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/aqil.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/aqil.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/aqil.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/aqil_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/aqil_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/aqil_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/aqil_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/aqil_solo.png"
   }
  },
  {
-  "name": "ashfire",
+  "name": "ashfire_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/ashfire",
   "warnings": [],
   "min": [
@@ -3308,16 +3378,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "ashfire",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/ashfire",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ashfire.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ashfire.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ashfire.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ashfire.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ashfire_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ashfire_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ashfire_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ashfire_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ashfire_solo.png"
   }
  },
  {
-  "name": "babylon",
+  "name": "babylon_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/babylon",
   "warnings": [],
   "min": [
@@ -3360,16 +3431,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "babylon",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/babylon",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/babylon.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/babylon.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/babylon.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/babylon.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/babylon_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/babylon_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/babylon_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/babylon_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/babylon_solo.png"
   }
  },
  {
-  "name": "biohazard",
+  "name": "biohazard_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/biohazard",
   "warnings": [],
   "min": [
@@ -3412,16 +3484,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "biohazard",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/biohazard",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/biohazard.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/biohazard.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/biohazard.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/biohazard.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/biohazard_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/biohazard_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/biohazard_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/biohazard_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/biohazard_solo.png"
   }
  },
  {
-  "name": "casita",
+  "name": "casita_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/casita",
   "warnings": [],
   "min": [
@@ -3464,16 +3537,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "casita",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/casita",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/casita.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/casita.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/casita.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/casita.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/casita_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/casita_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/casita_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/casita_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/casita_solo.png"
   }
  },
  {
-  "name": "cliffside",
+  "name": "cliffside_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/cliffside",
   "warnings": [],
   "min": [
@@ -3516,16 +3590,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "cliffside",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/cliffside",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/cliffside.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/cliffside.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/cliffside.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/cliffside.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/cliffside_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/cliffside_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/cliffside_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/cliffside_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/cliffside_solo.png"
   }
  },
  {
-  "name": "crogorm",
+  "name": "crogorm_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/crogorm",
   "warnings": [],
   "min": [
@@ -3568,16 +3643,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "crogorm",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/crogorm",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crogorm.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crogorm.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crogorm.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crogorm.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/crogorm_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crogorm_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crogorm_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crogorm_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crogorm_solo.png"
   }
  },
  {
-  "name": "crypt",
+  "name": "crypt_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/crypt",
   "warnings": [],
   "min": [
@@ -3620,16 +3696,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "crypt",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/crypt",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crypt.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crypt.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crypt.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crypt.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/crypt_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crypt_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crypt_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crypt_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crypt_solo.png"
   }
  },
  {
-  "name": "deadwood",
+  "name": "deadwood_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/deadwood",
   "warnings": [],
   "min": [
@@ -3672,16 +3749,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "deadwood",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/deadwood",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/deadwood.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/deadwood.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/deadwood.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/deadwood.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/deadwood_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/deadwood_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/deadwood_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/deadwood_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/deadwood_solo.png"
   }
  },
  {
-  "name": "dockyard",
+  "name": "dockyard_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/dockyard",
   "warnings": [],
   "min": [
@@ -3724,16 +3802,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "dockyard",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/dockyard",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dockyard.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dockyard.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dockyard.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dockyard.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/dockyard_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dockyard_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dockyard_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dockyard_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dockyard_solo.png"
   }
  },
  {
-  "name": "dragonstar",
+  "name": "dragonstar_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/dragonstar",
   "warnings": [],
   "min": [
@@ -3776,16 +3855,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "dragonstar",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/dragonstar",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dragonstar.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dragonstar.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dragonstar.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dragonstar.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/dragonstar_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dragonstar_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dragonstar_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dragonstar_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dragonstar_solo.png"
   }
  },
  {
-  "name": "gateway",
+  "name": "gateway_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/gateway",
   "warnings": [],
   "min": [
@@ -3828,16 +3908,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "gateway",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/gateway",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/gateway.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/gateway.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/gateway.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/gateway.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/gateway_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/gateway_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/gateway_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/gateway_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/gateway_solo.png"
   }
  },
  {
-  "name": "glacier",
+  "name": "glacier_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/glacier",
   "warnings": [],
   "min": [
@@ -3880,16 +3961,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "glacier",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/glacier",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/glacier.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/glacier.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/glacier.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/glacier.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/glacier_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/glacier_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/glacier_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/glacier_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/glacier_solo.png"
   }
  },
  {
-  "name": "harvest",
+  "name": "harvest_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/harvest",
   "warnings": [],
   "min": [
@@ -3932,16 +4014,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "harvest",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/harvest",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/harvest.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/harvest.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/harvest.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/harvest.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/harvest_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/harvest_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/harvest_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/harvest_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/harvest_solo.png"
   }
  },
  {
-  "name": "hollow",
+  "name": "hollow_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/hollow",
   "warnings": [],
   "min": [
@@ -3984,16 +4067,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "hollow",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/hollow",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/hollow.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/hollow.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/hollow.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/hollow.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/hollow_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/hollow_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/hollow_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/hollow_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/hollow_solo.png"
   }
  },
  {
-  "name": "impere",
+  "name": "impere_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/impere",
   "warnings": [],
   "min": [
@@ -4036,16 +4120,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "impere",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/impere",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/impere.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/impere.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/impere.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/impere.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/impere_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/impere_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/impere_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/impere_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/impere_solo.png"
   }
  },
  {
-  "name": "ironclad",
+  "name": "ironclad_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/ironclad",
   "warnings": [],
   "min": [
@@ -4088,16 +4173,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "ironclad",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/ironclad",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ironclad.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ironclad.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ironclad.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ironclad.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ironclad_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ironclad_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ironclad_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ironclad_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ironclad_solo.png"
   }
  },
  {
-  "name": "lighthouse",
+  "name": "lighthouse_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/lighthouse",
   "warnings": [],
   "min": [
@@ -4140,16 +4226,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "lighthouse",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/lighthouse",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lighthouse.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lighthouse.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lighthouse.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lighthouse.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lighthouse_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lighthouse_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lighthouse_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lighthouse_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lighthouse_solo.png"
   }
  },
  {
-  "name": "lotus",
+  "name": "lotus_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/lotus",
   "warnings": [],
   "min": [
@@ -4192,16 +4279,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "lotus",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/lotus",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lotus.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lotus.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lotus.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lotus.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lotus_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lotus_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lotus_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lotus_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lotus_solo.png"
   }
  },
  {
-  "name": "lucky_rush",
+  "name": "lucky_rush_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/lucky_rush",
   "warnings": [],
   "min": [
@@ -4244,16 +4332,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "lucky_rush",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/lucky_rush",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lucky_rush.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lucky_rush.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lucky_rush.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lucky_rush.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lucky_rush_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lucky_rush_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lucky_rush_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lucky_rush_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lucky_rush_solo.png"
   }
  },
  {
-  "name": "meso",
+  "name": "meso_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/meso",
   "warnings": [],
   "min": [
@@ -4296,16 +4385,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "meso",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/meso",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/meso.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/meso.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/meso.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/meso.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/meso_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/meso_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/meso_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/meso_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/meso_solo.png"
   }
  },
  {
-  "name": "mirage",
+  "name": "mirage_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/mirage",
   "warnings": [],
   "min": [
@@ -4348,16 +4438,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "mirage",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/mirage",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/mirage.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/mirage.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/mirage.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/mirage.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/mirage_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/mirage_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/mirage_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/mirage_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/mirage_solo.png"
   }
  },
  {
-  "name": "orbit",
+  "name": "orbit_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/orbit",
   "warnings": [],
   "min": [
@@ -4400,16 +4491,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "orbit",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/orbit",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orbit.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orbit.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orbit.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orbit.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/orbit_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orbit_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orbit_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orbit_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orbit_solo.png"
   }
  },
  {
-  "name": "orchestra",
+  "name": "orchestra_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/orchestra",
   "warnings": [],
   "min": [
@@ -4452,16 +4544,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "orchestra",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/orchestra",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orchestra.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orchestra.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orchestra.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orchestra.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/orchestra_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orchestra_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orchestra_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orchestra_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orchestra_solo.png"
   }
  },
  {
-  "name": "pavilion",
+  "name": "pavilion_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/pavilion",
   "warnings": [],
   "min": [
@@ -4504,16 +4597,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "pavilion",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/pavilion",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pavilion.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pavilion.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pavilion.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pavilion.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/pavilion_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pavilion_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pavilion_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pavilion_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pavilion_solo.png"
   }
  },
  {
-  "name": "pernicious",
+  "name": "pernicious_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/pernicious",
   "warnings": [],
   "min": [
@@ -4556,16 +4650,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "pernicious",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/pernicious",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pernicious.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pernicious.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pernicious.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pernicious.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/pernicious_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pernicious_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pernicious_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pernicious_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pernicious_solo.png"
   }
  },
  {
-  "name": "playground",
+  "name": "playground_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/playground",
   "warnings": [],
   "min": [
@@ -4608,16 +4703,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "playground",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/playground",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/playground.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/playground.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/playground.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/playground.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/playground_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/playground_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/playground_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/playground_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/playground_solo.png"
   }
  },
  {
-  "name": "polygon",
+  "name": "polygon_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/polygon",
   "warnings": [],
   "min": [
@@ -4660,16 +4756,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "polygon",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/polygon",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/polygon.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/polygon.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/polygon.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/polygon.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/polygon_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/polygon_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/polygon_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/polygon_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/polygon_solo.png"
   }
  },
  {
-  "name": "rooftop",
+  "name": "rooftop_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/rooftop",
   "warnings": [],
   "min": [
@@ -4712,16 +4809,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "rooftop",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/rooftop",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooftop.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooftop.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooftop.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooftop.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/rooftop_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooftop_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooftop_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooftop_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooftop_solo.png"
   }
  },
  {
-  "name": "rooted",
+  "name": "rooted_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/rooted",
   "warnings": [],
   "min": [
@@ -4764,16 +4862,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "rooted",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/rooted",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooted.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooted.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooted.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooted.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/rooted_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooted_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooted_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooted_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooted_solo.png"
   }
  },
  {
-  "name": "sanctum",
+  "name": "sanctum_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/sanctum",
   "warnings": [],
   "min": [
@@ -4816,16 +4915,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "sanctum",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/sanctum",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sanctum.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sanctum.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sanctum.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sanctum.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/sanctum_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sanctum_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sanctum_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sanctum_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sanctum_solo.png"
   }
  },
  {
-  "name": "scorched_sands",
+  "name": "scorched_sands_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/scorched_sands",
   "warnings": [],
   "min": [
@@ -4868,16 +4968,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "scorched_sands",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/scorched_sands",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/scorched_sands.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/scorched_sands.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/scorched_sands.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/scorched_sands.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/scorched_sands_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/scorched_sands_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/scorched_sands_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/scorched_sands_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/scorched_sands_solo.png"
   }
  },
  {
-  "name": "serenity",
+  "name": "serenity_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/serenity",
   "warnings": [],
   "min": [
@@ -4920,16 +5021,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "serenity",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/serenity",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/serenity.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/serenity.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/serenity.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/serenity.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/serenity_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/serenity_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/serenity_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/serenity_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/serenity_solo.png"
   }
  },
  {
-  "name": "siege",
+  "name": "siege_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/siege",
   "warnings": [],
   "min": [
@@ -4972,16 +5074,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "siege",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/siege",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/siege.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/siege.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/siege.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/siege.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/siege_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/siege_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/siege_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/siege_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/siege_solo.png"
   }
  },
  {
-  "name": "sky_rise",
+  "name": "sky_rise_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/sky_rise",
   "warnings": [],
   "min": [
@@ -5024,16 +5127,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "sky_rise",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/sky_rise",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sky_rise.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sky_rise.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sky_rise.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sky_rise.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/sky_rise_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sky_rise_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sky_rise_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sky_rise_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sky_rise_solo.png"
   }
  },
  {
-  "name": "solace",
+  "name": "solace_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/solace",
   "warnings": [],
   "min": [
@@ -5076,16 +5180,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "solace",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/solace",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/solace.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/solace.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/solace.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/solace.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/solace_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/solace_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/solace_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/solace_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/solace_solo.png"
   }
  },
  {
-  "name": "speedway",
+  "name": "speedway_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/speedway",
   "warnings": [],
   "min": [
@@ -5128,16 +5233,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "speedway",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/speedway",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/speedway.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/speedway.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/speedway.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/speedway.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/speedway_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/speedway_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/speedway_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/speedway_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/speedway_solo.png"
   }
  },
  {
-  "name": "zarzul",
+  "name": "zarzul_solo",
   "source": "Hypixel/BedwarsSolo(doubles)/World/zarzul",
   "warnings": [],
   "min": [
@@ -5180,16 +5286,17 @@
   ],
   "maxInTeam": 1,
   "mode": "BedwarsSolo(doubles)",
+  "originalName": "zarzul",
   "files": {
-   "world": "Hypixel/BedwarsSolo(doubles)/World/zarzul",
-   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/zarzul.zip",
-   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/zarzul.yml",
-   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/zarzul.schematic",
-   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/zarzul.png"
+   "world": "Hypixel/BedwarsSolo(doubles)/World/zarzul_solo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/zarzul_solo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/zarzul_solo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/zarzul_solo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/zarzul_solo.png"
   }
  },
  {
-  "name": "Abstract",
+  "name": "Abstract_flat",
   "source": "Hypixel/DuelsFlat/Abstract.zip",
   "warnings": [],
   "min": [
@@ -5220,14 +5327,15 @@
   "blocks": 539536,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Abstract",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Abstract.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Abstract.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Abstract.png"
+   "zip": "Hypixel/DuelsFlat/Abstract_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Abstract_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Abstract_flat.png"
   }
  },
  {
-  "name": "Arena",
+  "name": "Arena_flat",
   "source": "Hypixel/DuelsFlat/Arena.zip",
   "warnings": [],
   "min": [
@@ -5258,14 +5366,15 @@
   "blocks": 98796,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Arena",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Arena.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Arena.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Arena.png"
+   "zip": "Hypixel/DuelsFlat/Arena_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Arena_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Arena_flat.png"
   }
  },
  {
-  "name": "Backwood",
+  "name": "Backwood_flat",
   "source": "Hypixel/DuelsFlat/Backwood.zip",
   "warnings": [],
   "min": [
@@ -5296,14 +5405,15 @@
   "blocks": 344913,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Backwood",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Backwood.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Backwood.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Backwood.png"
+   "zip": "Hypixel/DuelsFlat/Backwood_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Backwood_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Backwood_flat.png"
   }
  },
  {
-  "name": "Barracuda_Bay",
+  "name": "Barracuda_Bay_flat",
   "source": "Hypixel/DuelsFlat/Barracuda_Bay.zip",
   "warnings": [],
   "min": [
@@ -5334,14 +5444,15 @@
   "blocks": 590328,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Barracuda_Bay",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Barracuda_Bay.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Barracuda_Bay.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Barracuda_Bay.png"
+   "zip": "Hypixel/DuelsFlat/Barracuda_Bay_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Barracuda_Bay_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Barracuda_Bay_flat.png"
   }
  },
  {
-  "name": "Cage_Fight",
+  "name": "Cage_Fight_flat",
   "source": "Hypixel/DuelsFlat/Cage_Fight.zip",
   "warnings": [],
   "min": [
@@ -5372,14 +5483,15 @@
   "blocks": 314222,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Cage_Fight",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Cage_Fight.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Cage_Fight.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Cage_Fight.png"
+   "zip": "Hypixel/DuelsFlat/Cage_Fight_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Cage_Fight_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Cage_Fight_flat.png"
   }
  },
  {
-  "name": "Chicken_Jockey",
+  "name": "Chicken_Jockey_flat",
   "source": "Hypixel/DuelsFlat/Chicken_Jockey.zip",
   "warnings": [],
   "min": [
@@ -5410,14 +5522,15 @@
   "blocks": 589446,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Chicken_Jockey",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Chicken_Jockey.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Chicken_Jockey.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Chicken_Jockey.png"
+   "zip": "Hypixel/DuelsFlat/Chicken_Jockey_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Chicken_Jockey_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Chicken_Jockey_flat.png"
   }
  },
  {
-  "name": "Coastline",
+  "name": "Coastline_flat",
   "source": "Hypixel/DuelsFlat/Coastline.zip",
   "warnings": [],
   "min": [
@@ -5448,14 +5561,15 @@
   "blocks": 409199,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Coastline",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Coastline.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Coastline.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Coastline.png"
+   "zip": "Hypixel/DuelsFlat/Coastline_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Coastline_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Coastline_flat.png"
   }
  },
  {
-  "name": "Fight_Night",
+  "name": "Fight_Night_flat",
   "source": "Hypixel/DuelsFlat/Fight_Night.zip",
   "warnings": [],
   "min": [
@@ -5486,14 +5600,15 @@
   "blocks": 450179,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Fight_Night",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Fight_Night.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Fight_Night.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Fight_Night.png"
+   "zip": "Hypixel/DuelsFlat/Fight_Night_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Fight_Night_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Fight_Night_flat.png"
   }
  },
  {
-  "name": "Fractal",
+  "name": "Fractal_flat",
   "source": "Hypixel/DuelsFlat/Fractal.zip",
   "warnings": [],
   "min": [
@@ -5524,14 +5639,15 @@
   "blocks": 508922,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Fractal",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Fractal.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Fractal.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Fractal.png"
+   "zip": "Hypixel/DuelsFlat/Fractal_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Fractal_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Fractal_flat.png"
   }
  },
  {
-  "name": "Monolith",
+  "name": "Monolith_flat",
   "source": "Hypixel/DuelsFlat/Monolith.zip",
   "warnings": [],
   "min": [
@@ -5562,14 +5678,15 @@
   "blocks": 548361,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Monolith",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Monolith.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Monolith.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Monolith.png"
+   "zip": "Hypixel/DuelsFlat/Monolith_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Monolith_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Monolith_flat.png"
   }
  },
  {
-  "name": "Museum",
+  "name": "Museum_flat",
   "source": "Hypixel/DuelsFlat/Museum.zip",
   "warnings": [],
   "min": [
@@ -5600,14 +5717,15 @@
   "blocks": 365093,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Museum",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Museum.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Museum.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Museum.png"
+   "zip": "Hypixel/DuelsFlat/Museum_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Museum_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Museum_flat.png"
   }
  },
  {
-  "name": "Reef",
+  "name": "Reef_flat",
   "source": "Hypixel/DuelsFlat/Reef.zip",
   "warnings": [],
   "min": [
@@ -5638,14 +5756,15 @@
   "blocks": 539997,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Reef",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Reef.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Reef.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Reef.png"
+   "zip": "Hypixel/DuelsFlat/Reef_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Reef_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Reef_flat.png"
   }
  },
  {
-  "name": "Skyport",
+  "name": "Skyport_flat",
   "source": "Hypixel/DuelsFlat/Skyport.zip",
   "warnings": [],
   "min": [
@@ -5676,14 +5795,15 @@
   "blocks": 129549,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Skyport",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Skyport.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Skyport.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Skyport.png"
+   "zip": "Hypixel/DuelsFlat/Skyport_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Skyport_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Skyport_flat.png"
   }
  },
  {
-  "name": "Spikerock_Bay",
+  "name": "Spikerock_Bay_flat",
   "source": "Hypixel/DuelsFlat/Spikerock_Bay.zip",
   "warnings": [],
   "min": [
@@ -5714,14 +5834,15 @@
   "blocks": 659791,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Spikerock_Bay",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Spikerock_Bay.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Spikerock_Bay.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Spikerock_Bay.png"
+   "zip": "Hypixel/DuelsFlat/Spikerock_Bay_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Spikerock_Bay_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Spikerock_Bay_flat.png"
   }
  },
  {
-  "name": "Zhulong",
+  "name": "Zhulong_flat",
   "source": "Hypixel/DuelsFlat/Zhulong.zip",
   "warnings": [],
   "min": [
@@ -5752,14 +5873,15 @@
   "blocks": 1270456,
   "hadLevelDat": true,
   "mode": "DuelsFlat",
+  "originalName": "Zhulong",
   "files": {
-   "zip": "Hypixel/DuelsFlat/Zhulong.zip",
-   "schematic": "Hypixel/DuelsFlat/Schematics/Zhulong.schematic",
-   "preview": "Hypixel/DuelsFlat/Previews/Zhulong.png"
+   "zip": "Hypixel/DuelsFlat/Zhulong_flat.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Zhulong_flat.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Zhulong_flat.png"
   }
  },
  {
-  "name": "Cage_Fights",
+  "name": "Cage_Fights_shaped",
   "source": "Hypixel/DuelsShaped/Cage_Fights.zip",
   "warnings": [],
   "min": [
@@ -5790,14 +5912,15 @@
   "blocks": 314222,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Cage_Fights",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Cage_Fights.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Cage_Fights.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Cage_Fights.png"
+   "zip": "Hypixel/DuelsShaped/Cage_Fights_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Cage_Fights_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Cage_Fights_shaped.png"
   }
  },
  {
-  "name": "Fight_Nights",
+  "name": "Fight_Nights_shaped",
   "source": "Hypixel/DuelsShaped/Fight_Nights.zip",
   "warnings": [],
   "min": [
@@ -5828,14 +5951,15 @@
   "blocks": 450194,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Fight_Nights",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Fight_Nights.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Fight_Nights.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Fight_Nights.png"
+   "zip": "Hypixel/DuelsShaped/Fight_Nights_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Fight_Nights_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Fight_Nights_shaped.png"
   }
  },
  {
-  "name": "Museums",
+  "name": "Museums_shaped",
   "source": "Hypixel/DuelsShaped/Museums.zip",
   "warnings": [],
   "min": [
@@ -5866,14 +5990,15 @@
   "blocks": 365089,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Museums",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Museums.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Museums.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Museums.png"
+   "zip": "Hypixel/DuelsShaped/Museums_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Museums_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Museums_shaped.png"
   }
  },
  {
-  "name": "Reefs",
+  "name": "Reefs_shaped",
   "source": "Hypixel/DuelsShaped/Reefs.zip",
   "warnings": [],
   "min": [
@@ -5904,14 +6029,15 @@
   "blocks": 539786,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Reefs",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Reefs.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Reefs.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Reefs.png"
+   "zip": "Hypixel/DuelsShaped/Reefs_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Reefs_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Reefs_shaped.png"
   }
  },
  {
-  "name": "Shans",
+  "name": "Shans_shaped",
   "source": "Hypixel/DuelsShaped/Shans.zip",
   "warnings": [],
   "min": [
@@ -5942,14 +6068,15 @@
   "blocks": 1607794,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Shans",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Shans.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Shans.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Shans.png"
+   "zip": "Hypixel/DuelsShaped/Shans_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Shans_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Shans_shaped.png"
   }
  },
  {
-  "name": "Spikerock_Bays",
+  "name": "Spikerock_Bays_shaped",
   "source": "Hypixel/DuelsShaped/Spikerock_Bays.zip",
   "warnings": [],
   "min": [
@@ -5980,14 +6107,15 @@
   "blocks": 659787,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Spikerock_Bays",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Spikerock_Bays.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Spikerock_Bays.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Spikerock_Bays.png"
+   "zip": "Hypixel/DuelsShaped/Spikerock_Bays_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Spikerock_Bays_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Spikerock_Bays_shaped.png"
   }
  },
  {
-  "name": "Zhulongs",
+  "name": "Zhulongs_shaped",
   "source": "Hypixel/DuelsShaped/Zhulongs.zip",
   "warnings": [],
   "min": [
@@ -6018,14 +6146,15 @@
   "blocks": 1270456,
   "hadLevelDat": true,
   "mode": "DuelsShaped",
+  "originalName": "Zhulongs",
   "files": {
-   "zip": "Hypixel/DuelsShaped/Zhulongs.zip",
-   "schematic": "Hypixel/DuelsShaped/Schematics/Zhulongs.schematic",
-   "preview": "Hypixel/DuelsShaped/Previews/Zhulongs.png"
+   "zip": "Hypixel/DuelsShaped/Zhulongs_shaped.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Zhulongs_shaped.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Zhulongs_shaped.png"
   }
  },
  {
-  "name": "Digit",
+  "name": "Digit_sumo",
   "source": "Hypixel/DuelsSumo/Digit.zip",
   "warnings": [],
   "min": [
@@ -6056,14 +6185,15 @@
   "blocks": 96910,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Digit",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Digit.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Digit.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Digit.png"
+   "zip": "Hypixel/DuelsSumo/Digit_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Digit_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Digit_sumo.png"
   }
  },
  {
-  "name": "Fort_Royale",
+  "name": "Fort_Royale_sumo",
   "source": "Hypixel/DuelsSumo/Fort_Royale.zip",
   "warnings": [],
   "min": [
@@ -6094,14 +6224,15 @@
   "blocks": 96868,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Fort_Royale",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Fort_Royale.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Fort_Royale.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Fort_Royale.png"
+   "zip": "Hypixel/DuelsSumo/Fort_Royale_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Fort_Royale_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Fort_Royale_sumo.png"
   }
  },
  {
-  "name": "Ponsen",
+  "name": "Ponsen_sumo",
   "source": "Hypixel/DuelsSumo/Ponsen.zip",
   "warnings": [],
   "min": [
@@ -6132,14 +6263,15 @@
   "blocks": 120914,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Ponsen",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Ponsen.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Ponsen.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Ponsen.png"
+   "zip": "Hypixel/DuelsSumo/Ponsen_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Ponsen_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Ponsen_sumo.png"
   }
  },
  {
-  "name": "Space_Mine",
+  "name": "Space_Mine_sumo",
   "source": "Hypixel/DuelsSumo/Space_Mine.zip",
   "warnings": [],
   "min": [
@@ -6170,14 +6302,15 @@
   "blocks": 96976,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Space_Mine",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Space_Mine.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Space_Mine.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Space_Mine.png"
+   "zip": "Hypixel/DuelsSumo/Space_Mine_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Space_Mine_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Space_Mine_sumo.png"
   }
  },
  {
-  "name": "Sumo",
+  "name": "Sumo_sumo",
   "source": "Hypixel/DuelsSumo/Sumo.zip",
   "warnings": [],
   "min": [
@@ -6208,14 +6341,15 @@
   "blocks": 25113,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Sumo",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Sumo.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Sumo.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Sumo.png"
+   "zip": "Hypixel/DuelsSumo/Sumo_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Sumo_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Sumo_sumo.png"
   }
  },
  {
-  "name": "Vivere",
+  "name": "Vivere_sumo",
   "source": "Hypixel/DuelsSumo/Vivere.zip",
   "warnings": [],
   "min": [
@@ -6246,14 +6380,15 @@
   "blocks": 223505,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "Vivere",
   "files": {
-   "zip": "Hypixel/DuelsSumo/Vivere.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/Vivere.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/Vivere.png"
+   "zip": "Hypixel/DuelsSumo/Vivere_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Vivere_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Vivere_sumo.png"
   }
  },
  {
-  "name": "White_Crystal",
+  "name": "White_Crystal_sumo",
   "source": "Hypixel/DuelsSumo/White_Crystal.zip",
   "warnings": [],
   "min": [
@@ -6284,10 +6419,11 @@
   "blocks": 340764,
   "hadLevelDat": true,
   "mode": "DuelsSumo",
+  "originalName": "White_Crystal",
   "files": {
-   "zip": "Hypixel/DuelsSumo/White_Crystal.zip",
-   "schematic": "Hypixel/DuelsSumo/Schematics/White_Crystal.schematic",
-   "preview": "Hypixel/DuelsSumo/Previews/White_Crystal.png"
+   "zip": "Hypixel/DuelsSumo/White_Crystal_sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/White_Crystal_sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/White_Crystal_sumo.png"
   }
  }
 ]
