@@ -1,0 +1,6293 @@
+[
+ {
+  "name": "Facility",
+  "source": "Hypixel/Bedfight(BedwarsRushDuel)/Facility.zip",
+  "warnings": [],
+  "min": [
+   -47,
+   86,
+   -17
+  ],
+  "max": [
+   47,
+   98,
+   17
+  ],
+  "size": [
+   95,
+   13,
+   35
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 18,
+  "emptyChunksDropped": 6907,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 14792,
+  "hadLevelDat": true,
+  "mode": "Bedfight(BedwarsRushDuel)",
+  "files": {
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Facility.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Facility.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Facility.png"
+  }
+ },
+ {
+  "name": "Harbor",
+  "source": "Hypixel/Bedfight(BedwarsRushDuel)/Harbor.zip",
+  "warnings": [],
+  "min": [
+   -45,
+   89,
+   -18
+  ],
+  "max": [
+   45,
+   100,
+   18
+  ],
+  "size": [
+   91,
+   12,
+   37
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 18,
+  "emptyChunksDropped": 6907,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 7078,
+  "hadLevelDat": true,
+  "mode": "Bedfight(BedwarsRushDuel)",
+  "files": {
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Harbor.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Harbor.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Harbor.png"
+  }
+ },
+ {
+  "name": "Mirage",
+  "source": "Hypixel/Bedfight(BedwarsRushDuel)/Mirage.zip",
+  "warnings": [],
+  "min": [
+   -47,
+   82,
+   -17
+  ],
+  "max": [
+   47,
+   98,
+   17
+  ],
+  "size": [
+   95,
+   17,
+   35
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 18,
+  "emptyChunksDropped": 6907,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 21432,
+  "hadLevelDat": true,
+  "mode": "Bedfight(BedwarsRushDuel)",
+  "files": {
+   "zip": "Hypixel/Bedfight(BedwarsRushDuel)/Mirage.zip",
+   "schematic": "Hypixel/Bedfight(BedwarsRushDuel)/Schematics/Mirage.schematic",
+   "preview": "Hypixel/Bedfight(BedwarsRushDuel)/Previews/Mirage.png"
+  }
+ },
+ {
+  "name": "acropolis",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/acropolis",
+  "warnings": [],
+  "min": [
+   -40,
+   58,
+   -91
+  ],
+  "max": [
+   40,
+   154,
+   91
+  ],
+  "size": [
+   81,
+   97,
+   183
+  ],
+  "spawn": [
+   0,
+   149,
+   0
+  ],
+  "chunks": 30,
+  "emptyChunksDropped": 1257,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 30611,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Blue",
+   "Red"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/acropolis",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/acropolis.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/acropolis.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/acropolis.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/acropolis.png"
+  }
+ },
+ {
+  "name": "archway",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/archway",
+  "warnings": [],
+  "min": [
+   -34,
+   58,
+   -69
+  ],
+  "max": [
+   34,
+   124,
+   69
+  ],
+  "size": [
+   69,
+   67,
+   139
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 35,
+  "emptyChunksDropped": 1007,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 31938,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Blue",
+   "Red"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/archway",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/archway.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/archway.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/archway.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/archway.png"
+  }
+ },
+ {
+  "name": "babylon",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/babylon",
+  "warnings": [],
+  "min": [
+   -83,
+   46,
+   -47
+  ],
+  "max": [
+   83,
+   161,
+   47
+  ],
+  "size": [
+   167,
+   116,
+   95
+  ],
+  "spawn": [
+   0,
+   156,
+   0
+  ],
+  "chunks": 45,
+  "emptyChunksDropped": 1261,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 38133,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Blue",
+   "Red"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/babylon",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/babylon.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/babylon.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/babylon.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/babylon.png"
+  }
+ },
+ {
+  "name": "cryptic",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/cryptic",
+  "warnings": [],
+  "min": [
+   -75,
+   41,
+   -81
+  ],
+  "max": [
+   75,
+   158,
+   81
+  ],
+  "size": [
+   151,
+   118,
+   163
+  ],
+  "spawn": [
+   0,
+   153,
+   0
+  ],
+  "chunks": 38,
+  "emptyChunksDropped": 1726,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 79272,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Blue",
+   "Red"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/cryptic",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/cryptic.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/cryptic.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/cryptic.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/cryptic.png"
+  }
+ },
+ {
+  "name": "glacier",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/glacier",
+  "warnings": [],
+  "min": [
+   -76,
+   64,
+   -27
+  ],
+  "max": [
+   76,
+   124,
+   27
+  ],
+  "size": [
+   153,
+   61,
+   55
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 20,
+  "emptyChunksDropped": 1078,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 17565,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Blue",
+   "Red"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/glacier",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/glacier.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/glacier.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/glacier.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/glacier.png"
+  }
+ },
+ {
+  "name": "ruins",
+  "source": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/ruins",
+  "warnings": [],
+  "min": [
+   -60,
+   61,
+   -88
+  ],
+  "max": [
+   60,
+   145,
+   88
+  ],
+  "size": [
+   121,
+   85,
+   177
+  ],
+  "spawn": [
+   0,
+   140,
+   0
+  ],
+  "chunks": 36,
+  "emptyChunksDropped": 1053,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 33071,
+  "hadLevelDat": true,
+  "group": "2v2",
+  "teams": [
+   "Red",
+   "Blue"
+  ],
+  "maxInTeam": 2,
+  "mode": "Bedwars2v2(4v4,SoloModded)",
+  "files": {
+   "world": "Hypixel/Bedwars2v2(4v4,SoloModded)/World/ruins",
+   "zip": "Hypixel/Bedwars2v2(4v4,SoloModded)/Cache/ruins.zip",
+   "arena": "Hypixel/Bedwars2v2(4v4,SoloModded)/Arenas/ruins.yml",
+   "schematic": "Hypixel/Bedwars2v2(4v4,SoloModded)/Schematics/ruins.schematic",
+   "preview": "Hypixel/Bedwars2v2(4v4,SoloModded)/Previews/ruins.png"
+  }
+ },
+ {
+  "name": "aquarium",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/aquarium",
+  "warnings": [],
+  "min": [
+   -93,
+   66,
+   -93
+  ],
+  "max": [
+   93,
+   124,
+   93
+  ],
+  "size": [
+   187,
+   59,
+   187
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 84,
+  "emptyChunksDropped": 704,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 31383,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/aquarium",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/aquarium.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/aquarium.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/aquarium.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/aquarium.png"
+  }
+ },
+ {
+  "name": "archway",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/archway",
+  "warnings": [],
+  "min": [
+   -83,
+   58,
+   -83
+  ],
+  "max": [
+   83,
+   124,
+   83
+  ],
+  "size": [
+   167,
+   67,
+   167
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 56,
+  "emptyChunksDropped": 848,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 40435,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/archway",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/archway.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/archway.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/archway.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/archway.png"
+  }
+ },
+ {
+  "name": "artemis",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/artemis",
+  "warnings": [],
+  "min": [
+   -97,
+   65,
+   -97
+  ],
+  "max": [
+   97,
+   150,
+   97
+  ],
+  "size": [
+   195,
+   86,
+   195
+  ],
+  "spawn": [
+   0,
+   145,
+   0
+  ],
+  "chunks": 72,
+  "emptyChunksDropped": 880,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 109210,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/artemis",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/artemis.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/artemis.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/artemis.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/artemis.png"
+  }
+ },
+ {
+  "name": "ashore",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/ashore",
+  "warnings": [],
+  "min": [
+   -86,
+   45,
+   -85
+  ],
+  "max": [
+   86,
+   124,
+   87
+  ],
+  "size": [
+   173,
+   80,
+   173
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 852,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 3,
+  "tileIdsFixed": 0,
+  "blocks": 38663,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/ashore",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/ashore.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/ashore.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/ashore.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/ashore.png"
+  }
+ },
+ {
+  "name": "boletum",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/boletum",
+  "warnings": [],
+  "min": [
+   -87,
+   76,
+   -87
+  ],
+  "max": [
+   85,
+   124,
+   85
+  ],
+  "size": [
+   173,
+   49,
+   173
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 54,
+  "emptyChunksDropped": 1916,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 33986,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/boletum",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/boletum.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/boletum.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/boletum.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/boletum.png"
+  }
+ },
+ {
+  "name": "build_site",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/build_site",
+  "warnings": [],
+  "min": [
+   -99,
+   58,
+   -99
+  ],
+  "max": [
+   99,
+   150,
+   99
+  ],
+  "size": [
+   199,
+   93,
+   199
+  ],
+  "spawn": [
+   0,
+   145,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 872,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 78361,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/build_site",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/build_site.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/build_site.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/build_site.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/build_site.png"
+  }
+ },
+ {
+  "name": "carapace",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/carapace",
+  "warnings": [],
+  "min": [
+   -67,
+   54,
+   -67
+  ],
+  "max": [
+   67,
+   132,
+   67
+  ],
+  "size": [
+   135,
+   79,
+   135
+  ],
+  "spawn": [
+   0,
+   127,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 710,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 25860,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/carapace",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/carapace.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/carapace.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/carapace.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/carapace.png"
+  }
+ },
+ {
+  "name": "catalyst",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/catalyst",
+  "warnings": [],
+  "min": [
+   -105,
+   52,
+   -105
+  ],
+  "max": [
+   105,
+   155,
+   105
+  ],
+  "size": [
+   211,
+   104,
+   211
+  ],
+  "spawn": [
+   0,
+   150,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 1642,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 86845,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/catalyst",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/catalyst.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/catalyst.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/catalyst.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/catalyst.png"
+  }
+ },
+ {
+  "name": "chained",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/chained",
+  "warnings": [],
+  "min": [
+   -89,
+   47,
+   -89
+  ],
+  "max": [
+   89,
+   124,
+   89
+  ],
+  "size": [
+   179,
+   78,
+   179
+  ],
+  "spawn": [
+   0,
+   118,
+   0
+  ],
+  "chunks": 56,
+  "emptyChunksDropped": 1914,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 2,
+  "tileIdsFixed": 3,
+  "blocks": 45760,
+  "hadLevelDat": true,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/chained",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/chained.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/chained.png"
+  }
+ },
+ {
+  "name": "daolong",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/daolong",
+  "warnings": [],
+  "min": [
+   -92,
+   66,
+   -92
+  ],
+  "max": [
+   92,
+   144,
+   92
+  ],
+  "size": [
+   185,
+   79,
+   185
+  ],
+  "spawn": [
+   0,
+   139,
+   0
+  ],
+  "chunks": 63,
+  "emptyChunksDropped": 874,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 52313,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/daolong",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/daolong.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/daolong.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/daolong.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/daolong.png"
+  }
+ },
+ {
+  "name": "deposit",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/deposit",
+  "warnings": [],
+  "min": [
+   -76,
+   43,
+   -72
+  ],
+  "max": [
+   76,
+   150,
+   72
+  ],
+  "size": [
+   153,
+   108,
+   145
+  ],
+  "spawn": [
+   0,
+   145,
+   0
+  ],
+  "chunks": 56,
+  "emptyChunksDropped": 1625,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 71802,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/deposit",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/deposit.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/deposit.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/deposit.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/deposit.png"
+  }
+ },
+ {
+  "name": "dreamgrove",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/dreamgrove",
+  "warnings": [],
+  "min": [
+   -72,
+   83,
+   -72
+  ],
+  "max": [
+   72,
+   162,
+   72
+  ],
+  "size": [
+   145,
+   80,
+   145
+  ],
+  "spawn": [
+   0,
+   157,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 702,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 4,
+  "tileIdsFixed": 0,
+  "blocks": 38153,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/dreamgrove",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/dreamgrove.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/dreamgrove.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/dreamgrove.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/dreamgrove.png"
+  }
+ },
+ {
+  "name": "eastwood",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/eastwood",
+  "warnings": [],
+  "min": [
+   -74,
+   48,
+   -74
+  ],
+  "max": [
+   74,
+   124,
+   74
+  ],
+  "size": [
+   149,
+   77,
+   149
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 53,
+  "emptyChunksDropped": 1710,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 80909,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/eastwood",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/eastwood.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/eastwood.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/eastwood.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/eastwood.png"
+  }
+ },
+ {
+  "name": "enchanted",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/enchanted",
+  "warnings": [],
+  "min": [
+   -103,
+   43,
+   -103
+  ],
+  "max": [
+   103,
+   132,
+   103
+  ],
+  "size": [
+   207,
+   90,
+   207
+  ],
+  "spawn": [
+   0,
+   127,
+   0
+  ],
+  "chunks": 96,
+  "emptyChunksDropped": 860,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 105430,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/enchanted",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/enchanted.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/enchanted.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/enchanted.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/enchanted.png"
+  }
+ },
+ {
+  "name": "extinction",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/extinction",
+  "warnings": [],
+  "min": [
+   -85,
+   33,
+   -85
+  ],
+  "max": [
+   85,
+   149,
+   85
+  ],
+  "size": [
+   171,
+   117,
+   171
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 64,
+  "emptyChunksDropped": 3968,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 97953,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/extinction",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/extinction.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/extinction.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/extinction.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/extinction.png"
+  }
+ },
+ {
+  "name": "fang_outpost",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fang_outpost",
+  "warnings": [],
+  "min": [
+   -103,
+   55,
+   -103
+  ],
+  "max": [
+   103,
+   153,
+   103
+  ],
+  "size": [
+   207,
+   99,
+   207
+  ],
+  "spawn": [
+   0,
+   148,
+   0
+  ],
+  "chunks": 104,
+  "emptyChunksDropped": 10212,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 119856,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fang_outpost",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fang_outpost.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fang_outpost.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fang_outpost.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fang_outpost.png"
+  }
+ },
+ {
+  "name": "fort_doon",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fort_doon",
+  "warnings": [],
+  "min": [
+   -94,
+   53,
+   -94
+  ],
+  "max": [
+   94,
+   193,
+   94
+  ],
+  "size": [
+   189,
+   141,
+   189
+  ],
+  "spawn": [
+   0,
+   188,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 907,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 74266,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/fort_doon",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/fort_doon.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/fort_doon.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/fort_doon.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/fort_doon.png"
+  }
+ },
+ {
+  "name": "frogiton",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/frogiton",
+  "warnings": [],
+  "min": [
+   -118,
+   52,
+   -118
+  ],
+  "max": [
+   118,
+   139,
+   118
+  ],
+  "size": [
+   237,
+   88,
+   237
+  ],
+  "spawn": [
+   0,
+   134,
+   0
+  ],
+  "chunks": 152,
+  "emptyChunksDropped": 1529,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 93019,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/frogiton",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/frogiton.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/frogiton.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/frogiton.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/frogiton.png"
+  }
+ },
+ {
+  "name": "graveship",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/graveship",
+  "warnings": [],
+  "min": [
+   -86,
+   75,
+   -84
+  ],
+  "max": [
+   72,
+   191,
+   74
+  ],
+  "size": [
+   159,
+   117,
+   159
+  ],
+  "spawn": [
+   0,
+   186,
+   0
+  ],
+  "chunks": 79,
+  "emptyChunksDropped": 881,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 102535,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/graveship",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/graveship.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/graveship.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/graveship.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/graveship.png"
+  }
+ },
+ {
+  "name": "holmgang",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/holmgang",
+  "warnings": [],
+  "min": [
+   -63,
+   63,
+   -84
+  ],
+  "max": [
+   63,
+   151,
+   84
+  ],
+  "size": [
+   127,
+   89,
+   169
+  ],
+  "spawn": [
+   0,
+   146,
+   0
+  ],
+  "chunks": 73,
+  "emptyChunksDropped": 757,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 41132,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/holmgang",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/holmgang.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/holmgang.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/holmgang.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/holmgang.png"
+  }
+ },
+ {
+  "name": "horizon",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/horizon",
+  "warnings": [],
+  "min": [
+   -99,
+   3,
+   -99
+  ],
+  "max": [
+   99,
+   154,
+   99
+  ],
+  "size": [
+   199,
+   152,
+   199
+  ],
+  "spawn": [
+   0,
+   149,
+   0
+  ],
+  "chunks": 92,
+  "emptyChunksDropped": 2560,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 130274,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/horizon",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/horizon.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/horizon.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/horizon.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/horizon.png"
+  }
+ },
+ {
+  "name": "infinite",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/infinite",
+  "warnings": [],
+  "min": [
+   -62,
+   60,
+   -65
+  ],
+  "max": [
+   62,
+   142,
+   65
+  ],
+  "size": [
+   125,
+   83,
+   131
+  ],
+  "spawn": [
+   0,
+   137,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 1037,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 39781,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/infinite",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/infinite.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/infinite.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/infinite.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/infinite.png"
+  }
+ },
+ {
+  "name": "invasion",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/invasion",
+  "warnings": [],
+  "min": [
+   -68,
+   70,
+   -68
+  ],
+  "max": [
+   68,
+   124,
+   68
+  ],
+  "size": [
+   137,
+   55,
+   137
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 702,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 57021,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/invasion",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/invasion.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/invasion.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/invasion.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/invasion.png"
+  }
+ },
+ {
+  "name": "jurassic",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/jurassic",
+  "warnings": [],
+  "min": [
+   -86,
+   54,
+   -86
+  ],
+  "max": [
+   86,
+   109,
+   86
+  ],
+  "size": [
+   173,
+   56,
+   173
+  ],
+  "spawn": [
+   0,
+   104,
+   0
+  ],
+  "chunks": 70,
+  "emptyChunksDropped": 778,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 65337,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/jurassic",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/jurassic.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/jurassic.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/jurassic.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/jurassic.png"
+  }
+ },
+ {
+  "name": "katsu",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/katsu",
+  "warnings": [],
+  "min": [
+   -98,
+   63,
+   -98
+  ],
+  "max": [
+   98,
+   148,
+   98
+  ],
+  "size": [
+   197,
+   86,
+   197
+  ],
+  "spawn": [
+   0,
+   143,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 873,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 80708,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/katsu",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/katsu.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/katsu.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/katsu.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/katsu.png"
+  }
+ },
+ {
+  "name": "kubo",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/kubo",
+  "warnings": [],
+  "min": [
+   -99,
+   61,
+   -124
+  ],
+  "max": [
+   99,
+   145,
+   124
+  ],
+  "size": [
+   199,
+   85,
+   249
+  ],
+  "spawn": [
+   0,
+   140,
+   0
+  ],
+  "chunks": 112,
+  "emptyChunksDropped": 935,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 78434,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/kubo",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/kubo.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/kubo.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/kubo.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/kubo.png"
+  }
+ },
+ {
+  "name": "lectus",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lectus",
+  "warnings": [],
+  "min": [
+   -64,
+   49,
+   -64
+  ],
+  "max": [
+   64,
+   124,
+   64
+  ],
+  "size": [
+   129,
+   76,
+   129
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 49,
+  "emptyChunksDropped": 1714,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 45601,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lectus",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/lectus.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/lectus.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lectus.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lectus.png"
+  }
+ },
+ {
+  "name": "lobby",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lobby",
+  "warnings": [],
+  "min": [
+   -94,
+   0,
+   -83
+  ],
+  "max": [
+   105,
+   173,
+   98
+  ],
+  "size": [
+   200,
+   174,
+   182
+  ],
+  "spawn": [
+   0,
+   67,
+   0
+  ],
+  "chunks": 109,
+  "emptyChunksDropped": 41175,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 315448,
+  "hadLevelDat": true,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/lobby",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/lobby.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/lobby.png"
+  }
+ },
+ {
+  "name": "obelisk",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/obelisk",
+  "warnings": [],
+  "min": [
+   -95,
+   55,
+   -95
+  ],
+  "max": [
+   95,
+   143,
+   95
+  ],
+  "size": [
+   191,
+   89,
+   191
+  ],
+  "spawn": [
+   0,
+   138,
+   0
+  ],
+  "chunks": 66,
+  "emptyChunksDropped": 2637,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 50833,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/obelisk",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/obelisk.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/obelisk.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/obelisk.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/obelisk.png"
+  }
+ },
+ {
+  "name": "orchid",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/orchid",
+  "warnings": [],
+  "min": [
+   -67,
+   56,
+   -89
+  ],
+  "max": [
+   67,
+   140,
+   89
+  ],
+  "size": [
+   135,
+   85,
+   179
+  ],
+  "spawn": [
+   0,
+   135,
+   0
+  ],
+  "chunks": 70,
+  "emptyChunksDropped": 1019,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 63453,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/orchid",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/orchid.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/orchid.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/orchid.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/orchid.png"
+  }
+ },
+ {
+  "name": "paladin",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paladin",
+  "warnings": [],
+  "min": [
+   -79,
+   62,
+   -79
+  ],
+  "max": [
+   79,
+   152,
+   79
+  ],
+  "size": [
+   159,
+   91,
+   159
+  ],
+  "spawn": [
+   0,
+   147,
+   0
+  ],
+  "chunks": 68,
+  "emptyChunksDropped": 807,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96553,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paladin",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paladin.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paladin.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paladin.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paladin.png"
+  }
+ },
+ {
+  "name": "paradox",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paradox",
+  "warnings": [],
+  "min": [
+   -74,
+   56,
+   -74
+  ],
+  "max": [
+   74,
+   138,
+   74
+  ],
+  "size": [
+   149,
+   83,
+   149
+  ],
+  "spawn": [
+   0,
+   133,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 796,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 73951,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/paradox",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/paradox.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/paradox.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/paradox.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/paradox.png"
+  }
+ },
+ {
+  "name": "pharaoh",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pharaoh",
+  "warnings": [],
+  "min": [
+   -99,
+   55,
+   -99
+  ],
+  "max": [
+   99,
+   149,
+   99
+  ],
+  "size": [
+   199,
+   95,
+   199
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 62,
+  "emptyChunksDropped": 918,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96041,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pharaoh",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pharaoh.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pharaoh.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pharaoh.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pharaoh.png"
+  }
+ },
+ {
+  "name": "planet_98",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/planet_98",
+  "warnings": [],
+  "min": [
+   -97,
+   41,
+   -97
+  ],
+  "max": [
+   97,
+   159,
+   97
+  ],
+  "size": [
+   195,
+   119,
+   195
+  ],
+  "spawn": [
+   0,
+   154,
+   0
+  ],
+  "chunks": 96,
+  "emptyChunksDropped": 866,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 161606,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/planet_98",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/planet_98.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/planet_98.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/planet_98.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/planet_98.png"
+  }
+ },
+ {
+  "name": "pool_party",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pool_party",
+  "warnings": [],
+  "min": [
+   -114,
+   57,
+   -114
+  ],
+  "max": [
+   114,
+   140,
+   114
+  ],
+  "size": [
+   229,
+   84,
+   229
+  ],
+  "spawn": [
+   0,
+   135,
+   0
+  ],
+  "chunks": 159,
+  "emptyChunksDropped": 913,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 91085,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/pool_party",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/pool_party.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/pool_party.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/pool_party.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/pool_party.png"
+  }
+ },
+ {
+  "name": "raze",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/raze",
+  "warnings": [],
+  "min": [
+   -87,
+   62,
+   -77
+  ],
+  "max": [
+   87,
+   142,
+   77
+  ],
+  "size": [
+   175,
+   81,
+   155
+  ],
+  "spawn": [
+   0,
+   137,
+   0
+  ],
+  "chunks": 53,
+  "emptyChunksDropped": 1036,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 34199,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/raze",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/raze.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/raze.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/raze.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/raze.png"
+  }
+ },
+ {
+  "name": "relic",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/relic",
+  "warnings": [],
+  "min": [
+   -85,
+   53,
+   -85
+  ],
+  "max": [
+   85,
+   144,
+   85
+  ],
+  "size": [
+   171,
+   92,
+   171
+  ],
+  "spawn": [
+   0,
+   139,
+   0
+  ],
+  "chunks": 54,
+  "emptyChunksDropped": 840,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 54310,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/relic",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/relic.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/relic.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/relic.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/relic.png"
+  }
+ },
+ {
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "name": "rise",
+  "error": "source world is empty or unreadable",
+  "source": [
+   "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/rise",
+   "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/rise.zip"
+  ]
+ },
+ {
+  "name": "stilted",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stilted",
+  "warnings": [],
+  "min": [
+   -78,
+   52,
+   -61
+  ],
+  "max": [
+   78,
+   134,
+   61
+  ],
+  "size": [
+   157,
+   83,
+   123
+  ],
+  "spawn": [
+   0,
+   129,
+   0
+  ],
+  "chunks": 64,
+  "emptyChunksDropped": 1617,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 10,
+  "tileIdsFixed": 0,
+  "blocks": 46706,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stilted",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stilted.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stilted.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stilted.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stilted.png"
+  }
+ },
+ {
+  "name": "stonekeep",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stonekeep",
+  "warnings": [],
+  "min": [
+   -90,
+   29,
+   -90
+  ],
+  "max": [
+   90,
+   124,
+   90
+  ],
+  "size": [
+   181,
+   96,
+   181
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 56,
+  "emptyChunksDropped": 808,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 58463,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/stonekeep",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/stonekeep.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/stonekeep.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/stonekeep.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/stonekeep.png"
+  }
+ },
+ {
+  "name": "swashbuckle",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/swashbuckle",
+  "warnings": [],
+  "min": [
+   -95,
+   52,
+   -95
+  ],
+  "max": [
+   95,
+   139,
+   95
+  ],
+  "size": [
+   191,
+   88,
+   191
+  ],
+  "spawn": [
+   0,
+   134,
+   0
+  ],
+  "chunks": 50,
+  "emptyChunksDropped": 1713,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 37253,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/swashbuckle",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/swashbuckle.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/swashbuckle.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/swashbuckle.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/swashbuckle.png"
+  }
+ },
+ {
+  "name": "temple",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/temple",
+  "warnings": [],
+  "min": [
+   -80,
+   51,
+   -80
+  ],
+  "max": [
+   80,
+   109,
+   80
+  ],
+  "size": [
+   161,
+   59,
+   161
+  ],
+  "spawn": [
+   0,
+   104,
+   0
+  ],
+  "chunks": 54,
+  "emptyChunksDropped": 798,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 74231,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/temple",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/temple.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/temple.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/temple.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/temple.png"
+  }
+ },
+ {
+  "name": "terminal",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/terminal",
+  "warnings": [],
+  "min": [
+   -87,
+   48,
+   -87
+  ],
+  "max": [
+   87,
+   114,
+   87
+  ],
+  "size": [
+   175,
+   67,
+   175
+  ],
+  "spawn": [
+   0,
+   109,
+   0
+  ],
+  "chunks": 68,
+  "emptyChunksDropped": 1613,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 57864,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/terminal",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/terminal.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/terminal.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/terminal.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/terminal.png"
+  }
+ },
+ {
+  "name": "treenan",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/treenan",
+  "warnings": [],
+  "min": [
+   -87,
+   51,
+   -87
+  ],
+  "max": [
+   87,
+   124,
+   87
+  ],
+  "size": [
+   175,
+   74,
+   175
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 1670,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 41079,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/treenan",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/treenan.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/treenan.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/treenan.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/treenan.png"
+  }
+ },
+ {
+  "name": "unturned",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/unturned",
+  "warnings": [],
+  "min": [
+   -104,
+   49,
+   -104
+  ],
+  "max": [
+   104,
+   137,
+   104
+  ],
+  "size": [
+   209,
+   89,
+   209
+  ],
+  "spawn": [
+   0,
+   132,
+   0
+  ],
+  "chunks": 104,
+  "emptyChunksDropped": 849,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 100660,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/unturned",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/unturned.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/unturned.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/unturned.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/unturned.png"
+  }
+ },
+ {
+  "name": "zen_plaza",
+  "source": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/zen_plaza",
+  "warnings": [],
+  "min": [
+   -119,
+   52,
+   -119
+  ],
+  "max": [
+   119,
+   137,
+   119
+  ],
+  "size": [
+   239,
+   86,
+   239
+  ],
+  "spawn": [
+   0,
+   132,
+   0
+  ],
+  "chunks": 84,
+  "emptyChunksDropped": 1122,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 95991,
+  "hadLevelDat": false,
+  "group": "4v4v4v4",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "maxInTeam": 4,
+  "mode": "Bedwars4v4v4v4(3v3v3v3)",
+  "files": {
+   "world": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/World/zen_plaza",
+   "zip": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Cache/zen_plaza.zip",
+   "arena": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Arenas/zen_plaza.yml",
+   "schematic": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Schematics/zen_plaza.schematic",
+   "preview": "Hypixel/Bedwars4v4v4v4(3v3v3v3)/Previews/zen_plaza.png"
+  }
+ },
+ {
+  "name": "ambush",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/ambush",
+  "warnings": [],
+  "min": [
+   -58,
+   50,
+   -58
+  ],
+  "max": [
+   43,
+   155,
+   43
+  ],
+  "size": [
+   102,
+   106,
+   102
+  ],
+  "spawn": [
+   0,
+   150,
+   0
+  ],
+  "chunks": 23,
+  "emptyChunksDropped": 1614,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 41261,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "White",
+   "Pink"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/ambush",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/ambush.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/ambush.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/ambush.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/ambush.png"
+  }
+ },
+ {
+  "name": "apollo",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/apollo",
+  "warnings": [],
+  "min": [
+   -52,
+   51,
+   -24
+  ],
+  "max": [
+   24,
+   152,
+   52
+  ],
+  "size": [
+   77,
+   102,
+   77
+  ],
+  "spawn": [
+   0,
+   147,
+   0
+  ],
+  "chunks": 20,
+  "emptyChunksDropped": 1091,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 25123,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Pink",
+   "White"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/apollo",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/apollo.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/apollo.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/apollo.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/apollo.png"
+  }
+ },
+ {
+  "name": "aqil",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/aqil",
+  "warnings": [],
+  "min": [
+   -40,
+   62,
+   -35
+  ],
+  "max": [
+   40,
+   144,
+   26
+  ],
+  "size": [
+   81,
+   83,
+   62
+  ],
+  "spawn": [
+   0,
+   139,
+   0
+  ],
+  "chunks": 25,
+  "emptyChunksDropped": 1039,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 25903,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Red",
+   "Blue"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/aqil",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/aqil.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/aqil.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/aqil.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/aqil.png"
+  }
+ },
+ {
+  "name": "dragonstar",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/dragonstar",
+  "warnings": [],
+  "min": [
+   -49,
+   65,
+   -15
+  ],
+  "max": [
+   48,
+   134,
+   13
+  ],
+  "size": [
+   98,
+   70,
+   29
+  ],
+  "spawn": [
+   0,
+   129,
+   0
+  ],
+  "chunks": 14,
+  "emptyChunksDropped": 977,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 10731,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Red",
+   "Blue"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/dragonstar",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/dragonstar.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/dragonstar.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/dragonstar.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/dragonstar.png"
+  }
+ },
+ {
+  "name": "lotus",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/lotus",
+  "warnings": [],
+  "min": [
+   -52,
+   59,
+   -41
+  ],
+  "max": [
+   52,
+   124,
+   16
+  ],
+  "size": [
+   105,
+   66,
+   58
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 22,
+  "emptyChunksDropped": 1106,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 14022,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Red",
+   "Blue"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/lotus",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/lotus.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/lotus.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/lotus.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/lotus.png"
+  }
+ },
+ {
+  "name": "pernicious",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/pernicious",
+  "warnings": [],
+  "min": [
+   -22,
+   38,
+   -51
+  ],
+  "max": [
+   51,
+   124,
+   23
+  ],
+  "size": [
+   74,
+   87,
+   75
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 18,
+  "emptyChunksDropped": 1074,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 11594,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "White",
+   "Pink"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/pernicious",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/pernicious.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/pernicious.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/pernicious.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/pernicious.png"
+  }
+ },
+ {
+  "name": "rooftop",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/rooftop",
+  "warnings": [],
+  "min": [
+   -51,
+   20,
+   -28
+  ],
+  "max": [
+   28,
+   124,
+   51
+  ],
+  "size": [
+   80,
+   105,
+   80
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 20,
+  "emptyChunksDropped": 1105,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 68819,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "White",
+   "Pink"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/rooftop",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/rooftop.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/rooftop.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/rooftop.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/rooftop.png"
+  }
+ },
+ {
+  "name": "scorched_sands",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/scorched_sands",
+  "warnings": [],
+  "min": [
+   -54,
+   55,
+   -34
+  ],
+  "max": [
+   34,
+   146,
+   54
+  ],
+  "size": [
+   89,
+   92,
+   89
+  ],
+  "spawn": [
+   0,
+   141,
+   0
+  ],
+  "chunks": 26,
+  "emptyChunksDropped": 1183,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 31752,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Pink",
+   "White"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/scorched_sands",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/scorched_sands.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/scorched_sands.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/scorched_sands.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/scorched_sands.png"
+  }
+ },
+ {
+  "name": "speedway",
+  "source": "Hypixel/BedwarsRush(SoloModded)/World/speedway",
+  "warnings": [],
+  "min": [
+   -47,
+   63,
+   -18
+  ],
+  "max": [
+   18,
+   104,
+   47
+  ],
+  "size": [
+   66,
+   42,
+   66
+  ],
+  "spawn": [
+   0,
+   99,
+   0
+  ],
+  "chunks": 16,
+  "emptyChunksDropped": 3953,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 8237,
+  "hadLevelDat": true,
+  "group": "Rush",
+  "teams": [
+   "Pink",
+   "White"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsRush(SoloModded)",
+  "files": {
+   "world": "Hypixel/BedwarsRush(SoloModded)/World/speedway",
+   "zip": "Hypixel/BedwarsRush(SoloModded)/Cache/speedway.zip",
+   "arena": "Hypixel/BedwarsRush(SoloModded)/Arenas/speedway.yml",
+   "schematic": "Hypixel/BedwarsRush(SoloModded)/Schematics/speedway.schematic",
+   "preview": "Hypixel/BedwarsRush(SoloModded)/Previews/speedway.png"
+  }
+ },
+ {
+  "name": "acropolis",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/acropolis",
+  "warnings": [],
+  "min": [
+   -114,
+   53,
+   -91
+  ],
+  "max": [
+   114,
+   154,
+   93
+  ],
+  "size": [
+   229,
+   102,
+   185
+  ],
+  "spawn": [
+   0,
+   150,
+   0
+  ],
+  "chunks": 133,
+  "emptyChunksDropped": 955,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 140252,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/acropolis",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/acropolis.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/acropolis.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/acropolis.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/acropolis.png"
+  }
+ },
+ {
+  "name": "airshow",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/airshow",
+  "warnings": [],
+  "min": [
+   -107,
+   34,
+   -107
+  ],
+  "max": [
+   107,
+   124,
+   107
+  ],
+  "size": [
+   215,
+   91,
+   215
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 3996,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 120987,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/airshow",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/airshow.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/airshow.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/airshow.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/airshow.png"
+  }
+ },
+ {
+  "name": "amazon",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/amazon",
+  "warnings": [],
+  "min": [
+   -102,
+   45,
+   -102
+  ],
+  "max": [
+   102,
+   124,
+   102
+  ],
+  "size": [
+   205,
+   80,
+   205
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 148,
+  "emptyChunksDropped": 959,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 4,
+  "tileIdsFixed": 0,
+  "blocks": 136597,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/amazon",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/amazon.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/amazon.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/amazon.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/amazon.png"
+  }
+ },
+ {
+  "name": "ambush",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/ambush",
+  "warnings": [],
+  "min": [
+   -129,
+   50,
+   -129
+  ],
+  "max": [
+   129,
+   155,
+   129
+  ],
+  "size": [
+   259,
+   106,
+   259
+  ],
+  "spawn": [
+   0,
+   150,
+   0
+  ],
+  "chunks": 189,
+  "emptyChunksDropped": 1419,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 298700,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ambush",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ambush.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ambush.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ambush.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ambush.png"
+  }
+ },
+ {
+  "name": "apollo",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/apollo",
+  "warnings": [],
+  "min": [
+   -99,
+   51,
+   -99
+  ],
+  "max": [
+   99,
+   152,
+   99
+  ],
+  "size": [
+   199,
+   102,
+   199
+  ],
+  "spawn": [
+   0,
+   147,
+   0
+  ],
+  "chunks": 112,
+  "emptyChunksDropped": 876,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 138502,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/apollo",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/apollo.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/apollo.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/apollo.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/apollo.png"
+  }
+ },
+ {
+  "name": "aqil",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/aqil",
+  "warnings": [],
+  "min": [
+   -95,
+   62,
+   -95
+  ],
+  "max": [
+   95,
+   144,
+   95
+  ],
+  "size": [
+   191,
+   83,
+   191
+  ],
+  "spawn": [
+   0,
+   139,
+   0
+  ],
+  "chunks": 104,
+  "emptyChunksDropped": 773,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 115420,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/aqil",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/aqil.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/aqil.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/aqil.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/aqil.png"
+  }
+ },
+ {
+  "name": "ashfire",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/ashfire",
+  "warnings": [],
+  "min": [
+   -99,
+   37,
+   -99
+  ],
+  "max": [
+   99,
+   129,
+   99
+  ],
+  "size": [
+   199,
+   93,
+   199
+  ],
+  "spawn": [
+   0,
+   124,
+   0
+  ],
+  "chunks": 122,
+  "emptyChunksDropped": 889,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 77662,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ashfire",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ashfire.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ashfire.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ashfire.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ashfire.png"
+  }
+ },
+ {
+  "name": "babylon",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/babylon",
+  "warnings": [],
+  "min": [
+   -115,
+   46,
+   -115
+  ],
+  "max": [
+   115,
+   161,
+   115
+  ],
+  "size": [
+   231,
+   116,
+   231
+  ],
+  "spawn": [
+   0,
+   156,
+   0
+  ],
+  "chunks": 128,
+  "emptyChunksDropped": 964,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 109430,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/babylon",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/babylon.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/babylon.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/babylon.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/babylon.png"
+  }
+ },
+ {
+  "name": "biohazard",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/biohazard",
+  "warnings": [],
+  "min": [
+   -109,
+   54,
+   -109
+  ],
+  "max": [
+   109,
+   149,
+   109
+  ],
+  "size": [
+   219,
+   96,
+   219
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 112,
+  "emptyChunksDropped": 1651,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 63604,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/biohazard",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/biohazard.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/biohazard.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/biohazard.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/biohazard.png"
+  }
+ },
+ {
+  "name": "casita",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/casita",
+  "warnings": [],
+  "min": [
+   -99,
+   62,
+   -135
+  ],
+  "max": [
+   99,
+   147,
+   135
+  ],
+  "size": [
+   199,
+   86,
+   271
+  ],
+  "spawn": [
+   0,
+   142,
+   0
+  ],
+  "chunks": 105,
+  "emptyChunksDropped": 1576,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 82885,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/casita",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/casita.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/casita.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/casita.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/casita.png"
+  }
+ },
+ {
+  "name": "cliffside",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/cliffside",
+  "warnings": [],
+  "min": [
+   -129,
+   69,
+   -129
+  ],
+  "max": [
+   129,
+   154,
+   129
+  ],
+  "size": [
+   259,
+   86,
+   259
+  ],
+  "spawn": [
+   0,
+   149,
+   0
+  ],
+  "chunks": 160,
+  "emptyChunksDropped": 1051,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 170268,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/cliffside",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/cliffside.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/cliffside.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/cliffside.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/cliffside.png"
+  }
+ },
+ {
+  "name": "crogorm",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/crogorm",
+  "warnings": [],
+  "min": [
+   -106,
+   82,
+   -106
+  ],
+  "max": [
+   106,
+   177,
+   106
+  ],
+  "size": [
+   213,
+   96,
+   213
+  ],
+  "spawn": [
+   0,
+   172,
+   0
+  ],
+  "chunks": 109,
+  "emptyChunksDropped": 981,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 51790,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/crogorm",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crogorm.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crogorm.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crogorm.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crogorm.png"
+  }
+ },
+ {
+  "name": "crypt",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/crypt",
+  "warnings": [],
+  "min": [
+   -109,
+   55,
+   -109
+  ],
+  "max": [
+   109,
+   129,
+   109
+  ],
+  "size": [
+   219,
+   75,
+   219
+  ],
+  "spawn": [
+   0,
+   124,
+   0
+  ],
+  "chunks": 88,
+  "emptyChunksDropped": 1675,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 63262,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/crypt",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/crypt.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/crypt.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/crypt.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/crypt.png"
+  }
+ },
+ {
+  "name": "deadwood",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/deadwood",
+  "warnings": [],
+  "min": [
+   -105,
+   50,
+   -105
+  ],
+  "max": [
+   105,
+   137,
+   105
+  ],
+  "size": [
+   211,
+   88,
+   211
+  ],
+  "spawn": [
+   0,
+   132,
+   0
+  ],
+  "chunks": 132,
+  "emptyChunksDropped": 1549,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 1,
+  "tileIdsFixed": 0,
+  "blocks": 83806,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/deadwood",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/deadwood.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/deadwood.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/deadwood.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/deadwood.png"
+  }
+ },
+ {
+  "name": "dockyard",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/dockyard",
+  "warnings": [],
+  "min": [
+   -109,
+   53,
+   -109
+  ],
+  "max": [
+   109,
+   151,
+   109
+  ],
+  "size": [
+   219,
+   99,
+   219
+  ],
+  "spawn": [
+   0,
+   146,
+   0
+  ],
+  "chunks": 114,
+  "emptyChunksDropped": 1603,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 103180,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/dockyard",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dockyard.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dockyard.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dockyard.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dockyard.png"
+  }
+ },
+ {
+  "name": "dragonstar",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/dragonstar",
+  "warnings": [],
+  "min": [
+   -85,
+   65,
+   -85
+  ],
+  "max": [
+   85,
+   134,
+   85
+  ],
+  "size": [
+   171,
+   70,
+   171
+  ],
+  "spawn": [
+   0,
+   129,
+   0
+  ],
+  "chunks": 106,
+  "emptyChunksDropped": 849,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 72116,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/dragonstar",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/dragonstar.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/dragonstar.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/dragonstar.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/dragonstar.png"
+  }
+ },
+ {
+  "name": "gateway",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/gateway",
+  "warnings": [],
+  "min": [
+   -97,
+   85,
+   -97
+  ],
+  "max": [
+   97,
+   157,
+   97
+  ],
+  "size": [
+   195,
+   73,
+   195
+  ],
+  "spawn": [
+   0,
+   152,
+   0
+  ],
+  "chunks": 108,
+  "emptyChunksDropped": 888,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 141119,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/gateway",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/gateway.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/gateway.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/gateway.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/gateway.png"
+  }
+ },
+ {
+  "name": "glacier",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/glacier",
+  "warnings": [],
+  "min": [
+   -89,
+   55,
+   -89
+  ],
+  "max": [
+   89,
+   124,
+   89
+  ],
+  "size": [
+   179,
+   70,
+   179
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 80,
+  "emptyChunksDropped": 991,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 69157,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/glacier",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/glacier.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/glacier.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/glacier.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/glacier.png"
+  }
+ },
+ {
+  "name": "harvest",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/harvest",
+  "warnings": [],
+  "min": [
+   -114,
+   42,
+   -114
+  ],
+  "max": [
+   114,
+   124,
+   114
+  ],
+  "size": [
+   229,
+   83,
+   229
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 148,
+  "emptyChunksDropped": 1533,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 135254,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/harvest",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/harvest.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/harvest.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/harvest.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/harvest.png"
+  }
+ },
+ {
+  "name": "hollow",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/hollow",
+  "warnings": [],
+  "min": [
+   -87,
+   55,
+   -87
+  ],
+  "max": [
+   87,
+   142,
+   87
+  ],
+  "size": [
+   175,
+   88,
+   175
+  ],
+  "spawn": [
+   0,
+   137,
+   0
+  ],
+  "chunks": 95,
+  "emptyChunksDropped": 874,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 61087,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/hollow",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/hollow.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/hollow.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/hollow.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/hollow.png"
+  }
+ },
+ {
+  "name": "impere",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/impere",
+  "warnings": [],
+  "min": [
+   -184,
+   54,
+   -184
+  ],
+  "max": [
+   184,
+   171,
+   184
+  ],
+  "size": [
+   369,
+   118,
+   369
+  ],
+  "spawn": [
+   0,
+   166,
+   0
+  ],
+  "chunks": 172,
+  "emptyChunksDropped": 3623,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 277573,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/impere",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/impere.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/impere.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/impere.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/impere.png"
+  }
+ },
+ {
+  "name": "ironclad",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/ironclad",
+  "warnings": [],
+  "min": [
+   -118,
+   38,
+   -118
+  ],
+  "max": [
+   118,
+   146,
+   118
+  ],
+  "size": [
+   237,
+   109,
+   237
+  ],
+  "spawn": [
+   0,
+   141,
+   0
+  ],
+  "chunks": 136,
+  "emptyChunksDropped": 1545,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 155152,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/ironclad",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/ironclad.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/ironclad.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/ironclad.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/ironclad.png"
+  }
+ },
+ {
+  "name": "lighthouse",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/lighthouse",
+  "warnings": [],
+  "min": [
+   -92,
+   46,
+   -95
+  ],
+  "max": [
+   98,
+   124,
+   95
+  ],
+  "size": [
+   191,
+   79,
+   191
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 107,
+  "emptyChunksDropped": 879,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 70905,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lighthouse",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lighthouse.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lighthouse.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lighthouse.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lighthouse.png"
+  }
+ },
+ {
+  "name": "lotus",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/lotus",
+  "warnings": [],
+  "min": [
+   -99,
+   57,
+   -99
+  ],
+  "max": [
+   99,
+   124,
+   99
+  ],
+  "size": [
+   199,
+   68,
+   199
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 92,
+  "emptyChunksDropped": 893,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 84124,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lotus",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lotus.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lotus.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lotus.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lotus.png"
+  }
+ },
+ {
+  "name": "lucky_rush",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/lucky_rush",
+  "warnings": [],
+  "min": [
+   -104,
+   50,
+   -104
+  ],
+  "max": [
+   104,
+   138,
+   104
+  ],
+  "size": [
+   209,
+   89,
+   209
+  ],
+  "spawn": [
+   0,
+   133,
+   0
+  ],
+  "chunks": 108,
+  "emptyChunksDropped": 1584,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 156156,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/lucky_rush",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/lucky_rush.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/lucky_rush.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/lucky_rush.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/lucky_rush.png"
+  }
+ },
+ {
+  "name": "meso",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/meso",
+  "warnings": [],
+  "min": [
+   -109,
+   39,
+   -109
+  ],
+  "max": [
+   109,
+   149,
+   109
+  ],
+  "size": [
+   219,
+   111,
+   219
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 113,
+  "emptyChunksDropped": 972,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 189500,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/meso",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/meso.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/meso.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/meso.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/meso.png"
+  }
+ },
+ {
+  "name": "mirage",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/mirage",
+  "warnings": [],
+  "min": [
+   -99,
+   30,
+   -99
+  ],
+  "max": [
+   99,
+   140,
+   99
+  ],
+  "size": [
+   199,
+   111,
+   199
+  ],
+  "spawn": [
+   0,
+   135,
+   0
+  ],
+  "chunks": 112,
+  "emptyChunksDropped": 918,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 250397,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/mirage",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/mirage.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/mirage.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/mirage.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/mirage.png"
+  }
+ },
+ {
+  "name": "orbit",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/orbit",
+  "warnings": [],
+  "min": [
+   -104,
+   0,
+   -104
+  ],
+  "max": [
+   104,
+   189,
+   104
+  ],
+  "size": [
+   209,
+   190,
+   209
+  ],
+  "spawn": [
+   0,
+   184,
+   0
+  ],
+  "chunks": 136,
+  "emptyChunksDropped": 979,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 208418,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/orbit",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orbit.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orbit.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orbit.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orbit.png"
+  }
+ },
+ {
+  "name": "orchestra",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/orchestra",
+  "warnings": [],
+  "min": [
+   -117,
+   49,
+   -117
+  ],
+  "max": [
+   117,
+   160,
+   117
+  ],
+  "size": [
+   235,
+   112,
+   235
+  ],
+  "spawn": [
+   0,
+   155,
+   0
+  ],
+  "chunks": 140,
+  "emptyChunksDropped": 963,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 99590,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/orchestra",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/orchestra.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/orchestra.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/orchestra.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/orchestra.png"
+  }
+ },
+ {
+  "name": "pavilion",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/pavilion",
+  "warnings": [],
+  "min": [
+   -121,
+   66,
+   -121
+  ],
+  "max": [
+   121,
+   149,
+   121
+  ],
+  "size": [
+   243,
+   84,
+   243
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 140,
+  "emptyChunksDropped": 1082,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 172695,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/pavilion",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pavilion.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pavilion.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pavilion.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pavilion.png"
+  }
+ },
+ {
+  "name": "pernicious",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/pernicious",
+  "warnings": [],
+  "min": [
+   -97,
+   38,
+   -97
+  ],
+  "max": [
+   97,
+   124,
+   97
+  ],
+  "size": [
+   195,
+   87,
+   195
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 889,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 89512,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/pernicious",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/pernicious.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/pernicious.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/pernicious.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/pernicious.png"
+  }
+ },
+ {
+  "name": "playground",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/playground",
+  "warnings": [],
+  "min": [
+   -101,
+   51,
+   -101
+  ],
+  "max": [
+   101,
+   114,
+   101
+  ],
+  "size": [
+   203,
+   64,
+   203
+  ],
+  "spawn": [
+   0,
+   109,
+   0
+  ],
+  "chunks": 122,
+  "emptyChunksDropped": 1641,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 63408,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/playground",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/playground.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/playground.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/playground.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/playground.png"
+  }
+ },
+ {
+  "name": "polygon",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/polygon",
+  "warnings": [],
+  "min": [
+   -103,
+   67,
+   -103
+  ],
+  "max": [
+   103,
+   147,
+   103
+  ],
+  "size": [
+   207,
+   81,
+   207
+  ],
+  "spawn": [
+   0,
+   142,
+   0
+  ],
+  "chunks": 120,
+  "emptyChunksDropped": 934,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 64553,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/polygon",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/polygon.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/polygon.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/polygon.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/polygon.png"
+  }
+ },
+ {
+  "name": "rooftop",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/rooftop",
+  "warnings": [],
+  "min": [
+   -100,
+   20,
+   -100
+  ],
+  "max": [
+   100,
+   124,
+   100
+  ],
+  "size": [
+   201,
+   105,
+   201
+  ],
+  "spawn": [
+   0,
+   119,
+   0
+  ],
+  "chunks": 120,
+  "emptyChunksDropped": 892,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 545772,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/rooftop",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooftop.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooftop.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooftop.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooftop.png"
+  }
+ },
+ {
+  "name": "rooted",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/rooted",
+  "warnings": [],
+  "min": [
+   -96,
+   42,
+   -96
+  ],
+  "max": [
+   96,
+   149,
+   96
+  ],
+  "size": [
+   193,
+   108,
+   193
+  ],
+  "spawn": [
+   0,
+   144,
+   0
+  ],
+  "chunks": 101,
+  "emptyChunksDropped": 3995,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96788,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/rooted",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/rooted.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/rooted.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/rooted.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/rooted.png"
+  }
+ },
+ {
+  "name": "sanctum",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/sanctum",
+  "warnings": [],
+  "min": [
+   -135,
+   59,
+   -135
+  ],
+  "max": [
+   135,
+   145,
+   135
+  ],
+  "size": [
+   271,
+   87,
+   271
+  ],
+  "spawn": [
+   0,
+   140,
+   0
+  ],
+  "chunks": 172,
+  "emptyChunksDropped": 1164,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 156890,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/sanctum",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sanctum.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sanctum.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sanctum.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sanctum.png"
+  }
+ },
+ {
+  "name": "scorched_sands",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/scorched_sands",
+  "warnings": [],
+  "min": [
+   -111,
+   50,
+   -111
+  ],
+  "max": [
+   111,
+   146,
+   111
+  ],
+  "size": [
+   223,
+   97,
+   223
+  ],
+  "spawn": [
+   0,
+   141,
+   0
+  ],
+  "chunks": 132,
+  "emptyChunksDropped": 968,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 171933,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/scorched_sands",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/scorched_sands.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/scorched_sands.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/scorched_sands.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/scorched_sands.png"
+  }
+ },
+ {
+  "name": "serenity",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/serenity",
+  "warnings": [],
+  "min": [
+   -107,
+   58,
+   -107
+  ],
+  "max": [
+   107,
+   147,
+   107
+  ],
+  "size": [
+   215,
+   90,
+   215
+  ],
+  "spawn": [
+   0,
+   142,
+   0
+  ],
+  "chunks": 128,
+  "emptyChunksDropped": 951,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 129270,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/serenity",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/serenity.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/serenity.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/serenity.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/serenity.png"
+  }
+ },
+ {
+  "name": "siege",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/siege",
+  "warnings": [],
+  "min": [
+   -95,
+   50,
+   -95
+  ],
+  "max": [
+   95,
+   162,
+   95
+  ],
+  "size": [
+   191,
+   113,
+   191
+  ],
+  "spawn": [
+   0,
+   157,
+   0
+  ],
+  "chunks": 92,
+  "emptyChunksDropped": 906,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 181331,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/siege",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/siege.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/siege.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/siege.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/siege.png"
+  }
+ },
+ {
+  "name": "sky_rise",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/sky_rise",
+  "warnings": [],
+  "min": [
+   -107,
+   25,
+   -107
+  ],
+  "max": [
+   107,
+   255,
+   107
+  ],
+  "size": [
+   215,
+   231,
+   215
+  ],
+  "spawn": [
+   0,
+   151,
+   0
+  ],
+  "chunks": 126,
+  "emptyChunksDropped": 884,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 503939,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/sky_rise",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/sky_rise.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/sky_rise.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/sky_rise.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/sky_rise.png"
+  }
+ },
+ {
+  "name": "solace",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/solace",
+  "warnings": [],
+  "min": [
+   -87,
+   47,
+   -87
+  ],
+  "max": [
+   87,
+   132,
+   87
+  ],
+  "size": [
+   175,
+   86,
+   175
+  ],
+  "spawn": [
+   0,
+   127,
+   0
+  ],
+  "chunks": 88,
+  "emptyChunksDropped": 3944,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 113670,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/solace",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/solace.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/solace.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/solace.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/solace.png"
+  }
+ },
+ {
+  "name": "speedway",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/speedway",
+  "warnings": [],
+  "min": [
+   -88,
+   54,
+   -88
+  ],
+  "max": [
+   88,
+   104,
+   88
+  ],
+  "size": [
+   177,
+   51,
+   177
+  ],
+  "spawn": [
+   0,
+   99,
+   0
+  ],
+  "chunks": 77,
+  "emptyChunksDropped": 3892,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 45624,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/speedway",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/speedway.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/speedway.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/speedway.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/speedway.png"
+  }
+ },
+ {
+  "name": "zarzul",
+  "source": "Hypixel/BedwarsSolo(doubles)/World/zarzul",
+  "warnings": [],
+  "min": [
+   -121,
+   52,
+   -121
+  ],
+  "max": [
+   121,
+   195,
+   121
+  ],
+  "size": [
+   243,
+   144,
+   243
+  ],
+  "spawn": [
+   0,
+   190,
+   0
+  ],
+  "chunks": 104,
+  "emptyChunksDropped": 930,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 2,
+  "tileIdsFixed": 0,
+  "blocks": 129451,
+  "hadLevelDat": true,
+  "group": "Solo",
+  "teams": [
+   "Red",
+   "Blue",
+   "Green",
+   "Yellow",
+   "Aqua",
+   "White",
+   "Pink",
+   "Gray"
+  ],
+  "maxInTeam": 1,
+  "mode": "BedwarsSolo(doubles)",
+  "files": {
+   "world": "Hypixel/BedwarsSolo(doubles)/World/zarzul",
+   "zip": "Hypixel/BedwarsSolo(doubles)/Cache/zarzul.zip",
+   "arena": "Hypixel/BedwarsSolo(doubles)/Arenas/zarzul.yml",
+   "schematic": "Hypixel/BedwarsSolo(doubles)/Schematics/zarzul.schematic",
+   "preview": "Hypixel/BedwarsSolo(doubles)/Previews/zarzul.png"
+  }
+ },
+ {
+  "name": "Abstract",
+  "source": "Hypixel/DuelsFlat/Abstract.zip",
+  "warnings": [],
+  "min": [
+   -76,
+   46,
+   -76
+  ],
+  "max": [
+   76,
+   99,
+   77
+  ],
+  "size": [
+   153,
+   54,
+   154
+  ],
+  "spawn": [
+   0,
+   87,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 6825,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 539536,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Abstract.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Abstract.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Abstract.png"
+  }
+ },
+ {
+  "name": "Arena",
+  "source": "Hypixel/DuelsFlat/Arena.zip",
+  "warnings": [],
+  "min": [
+   -53,
+   53,
+   -53
+  ],
+  "max": [
+   53,
+   137,
+   53
+  ],
+  "size": [
+   107,
+   85,
+   107
+  ],
+  "spawn": [
+   0,
+   78,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 6873,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 98796,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Arena.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Arena.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Arena.png"
+  }
+ },
+ {
+  "name": "Backwood",
+  "source": "Hypixel/DuelsFlat/Backwood.zip",
+  "warnings": [],
+  "min": [
+   -88,
+   57,
+   -115
+  ],
+  "max": [
+   96,
+   135,
+   100
+  ],
+  "size": [
+   185,
+   79,
+   216
+  ],
+  "spawn": [
+   0,
+   84,
+   0
+  ],
+  "chunks": 145,
+  "emptyChunksDropped": 6780,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 344913,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Backwood.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Backwood.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Backwood.png"
+  }
+ },
+ {
+  "name": "Barracuda_Bay",
+  "source": "Hypixel/DuelsFlat/Barracuda_Bay.zip",
+  "warnings": [],
+  "min": [
+   -106,
+   51,
+   -82
+  ],
+  "max": [
+   106,
+   128,
+   159
+  ],
+  "size": [
+   213,
+   78,
+   242
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 157,
+  "emptyChunksDropped": 6768,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 590328,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Barracuda_Bay.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Barracuda_Bay.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Barracuda_Bay.png"
+  }
+ },
+ {
+  "name": "Cage_Fight",
+  "source": "Hypixel/DuelsFlat/Cage_Fight.zip",
+  "warnings": [],
+  "min": [
+   -61,
+   51,
+   -61
+  ],
+  "max": [
+   61,
+   150,
+   61
+  ],
+  "size": [
+   123,
+   100,
+   123
+  ],
+  "spawn": [
+   0,
+   85,
+   0
+  ],
+  "chunks": 64,
+  "emptyChunksDropped": 6861,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 314222,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Cage_Fight.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Cage_Fight.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Cage_Fight.png"
+  }
+ },
+ {
+  "name": "Chicken_Jockey",
+  "source": "Hypixel/DuelsFlat/Chicken_Jockey.zip",
+  "warnings": [],
+  "min": [
+   -72,
+   51,
+   -72
+  ],
+  "max": [
+   72,
+   211,
+   72
+  ],
+  "size": [
+   145,
+   161,
+   145
+  ],
+  "spawn": [
+   0,
+   212,
+   0
+  ],
+  "chunks": 96,
+  "emptyChunksDropped": 6829,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 589446,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Chicken_Jockey.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Chicken_Jockey.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Chicken_Jockey.png"
+  }
+ },
+ {
+  "name": "Coastline",
+  "source": "Hypixel/DuelsFlat/Coastline.zip",
+  "warnings": [],
+  "min": [
+   -81,
+   0,
+   -84
+  ],
+  "max": [
+   82,
+   131,
+   82
+  ],
+  "size": [
+   164,
+   132,
+   167
+  ],
+  "spawn": [
+   0,
+   87,
+   0
+  ],
+  "chunks": 110,
+  "emptyChunksDropped": 6815,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 409199,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Coastline.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Coastline.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Coastline.png"
+  }
+ },
+ {
+  "name": "Fight_Night",
+  "source": "Hypixel/DuelsFlat/Fight_Night.zip",
+  "warnings": [],
+  "min": [
+   -77,
+   66,
+   -77
+  ],
+  "max": [
+   77,
+   159,
+   77
+  ],
+  "size": [
+   155,
+   94,
+   155
+  ],
+  "spawn": [
+   0,
+   160,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 6825,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 450179,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Fight_Night.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Fight_Night.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Fight_Night.png"
+  }
+ },
+ {
+  "name": "Fractal",
+  "source": "Hypixel/DuelsFlat/Fractal.zip",
+  "warnings": [],
+  "min": [
+   -82,
+   55,
+   -99
+  ],
+  "max": [
+   89,
+   158,
+   77
+  ],
+  "size": [
+   172,
+   104,
+   177
+  ],
+  "spawn": [
+   0,
+   87,
+   0
+  ],
+  "chunks": 109,
+  "emptyChunksDropped": 6816,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 508922,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Fractal.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Fractal.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Fractal.png"
+  }
+ },
+ {
+  "name": "Monolith",
+  "source": "Hypixel/DuelsFlat/Monolith.zip",
+  "warnings": [],
+  "min": [
+   -91,
+   0,
+   -91
+  ],
+  "max": [
+   95,
+   147,
+   90
+  ],
+  "size": [
+   187,
+   148,
+   182
+  ],
+  "spawn": [
+   0,
+   86,
+   0
+  ],
+  "chunks": 144,
+  "emptyChunksDropped": 6781,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 548361,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Monolith.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Monolith.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Monolith.png"
+  }
+ },
+ {
+  "name": "Museum",
+  "source": "Hypixel/DuelsFlat/Museum.zip",
+  "warnings": [],
+  "min": [
+   -59,
+   56,
+   -83
+  ],
+  "max": [
+   59,
+   184,
+   83
+  ],
+  "size": [
+   119,
+   129,
+   167
+  ],
+  "spawn": [
+   0,
+   184,
+   0
+  ],
+  "chunks": 96,
+  "emptyChunksDropped": 6829,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 365093,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Museum.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Museum.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Museum.png"
+  }
+ },
+ {
+  "name": "Reef",
+  "source": "Hypixel/DuelsFlat/Reef.zip",
+  "warnings": [],
+  "min": [
+   -80,
+   61,
+   -130
+  ],
+  "max": [
+   115,
+   166,
+   77
+  ],
+  "size": [
+   196,
+   106,
+   208
+  ],
+  "spawn": [
+   0,
+   124,
+   0
+  ],
+  "chunks": 111,
+  "emptyChunksDropped": 6814,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 539997,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Reef.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Reef.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Reef.png"
+  }
+ },
+ {
+  "name": "Skyport",
+  "source": "Hypixel/DuelsFlat/Skyport.zip",
+  "warnings": [],
+  "min": [
+   -74,
+   64,
+   -72
+  ],
+  "max": [
+   84,
+   153,
+   125
+  ],
+  "size": [
+   159,
+   90,
+   198
+  ],
+  "spawn": [
+   0,
+   93,
+   0
+  ],
+  "chunks": 106,
+  "emptyChunksDropped": 6819,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 129549,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Skyport.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Skyport.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Skyport.png"
+  }
+ },
+ {
+  "name": "Spikerock_Bay",
+  "source": "Hypixel/DuelsFlat/Spikerock_Bay.zip",
+  "warnings": [],
+  "min": [
+   -85,
+   66,
+   -85
+  ],
+  "max": [
+   85,
+   162,
+   85
+  ],
+  "size": [
+   171,
+   97,
+   171
+  ],
+  "spawn": [
+   0,
+   107,
+   0
+  ],
+  "chunks": 144,
+  "emptyChunksDropped": 6781,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 659791,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Spikerock_Bay.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Spikerock_Bay.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Spikerock_Bay.png"
+  }
+ },
+ {
+  "name": "Zhulong",
+  "source": "Hypixel/DuelsFlat/Zhulong.zip",
+  "warnings": [],
+  "min": [
+   -70,
+   67,
+   -104
+  ],
+  "max": [
+   70,
+   173,
+   104
+  ],
+  "size": [
+   141,
+   107,
+   209
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 140,
+  "emptyChunksDropped": 6785,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 1270456,
+  "hadLevelDat": true,
+  "mode": "DuelsFlat",
+  "files": {
+   "zip": "Hypixel/DuelsFlat/Zhulong.zip",
+   "schematic": "Hypixel/DuelsFlat/Schematics/Zhulong.schematic",
+   "preview": "Hypixel/DuelsFlat/Previews/Zhulong.png"
+  }
+ },
+ {
+  "name": "Cage_Fights",
+  "source": "Hypixel/DuelsShaped/Cage_Fights.zip",
+  "warnings": [],
+  "min": [
+   -61,
+   51,
+   -61
+  ],
+  "max": [
+   61,
+   150,
+   61
+  ],
+  "size": [
+   123,
+   100,
+   123
+  ],
+  "spawn": [
+   0,
+   85,
+   0
+  ],
+  "chunks": 64,
+  "emptyChunksDropped": 7486,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 314222,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Cage_Fights.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Cage_Fights.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Cage_Fights.png"
+  }
+ },
+ {
+  "name": "Fight_Nights",
+  "source": "Hypixel/DuelsShaped/Fight_Nights.zip",
+  "warnings": [],
+  "min": [
+   -77,
+   66,
+   -77
+  ],
+  "max": [
+   77,
+   159,
+   77
+  ],
+  "size": [
+   155,
+   94,
+   155
+  ],
+  "spawn": [
+   0,
+   160,
+   0
+  ],
+  "chunks": 100,
+  "emptyChunksDropped": 7425,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 450194,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Fight_Nights.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Fight_Nights.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Fight_Nights.png"
+  }
+ },
+ {
+  "name": "Museums",
+  "source": "Hypixel/DuelsShaped/Museums.zip",
+  "warnings": [],
+  "min": [
+   -59,
+   56,
+   -83
+  ],
+  "max": [
+   59,
+   184,
+   83
+  ],
+  "size": [
+   119,
+   129,
+   167
+  ],
+  "spawn": [
+   0,
+   184,
+   0
+  ],
+  "chunks": 96,
+  "emptyChunksDropped": 6829,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 365089,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Museums.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Museums.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Museums.png"
+  }
+ },
+ {
+  "name": "Reefs",
+  "source": "Hypixel/DuelsShaped/Reefs.zip",
+  "warnings": [],
+  "min": [
+   -80,
+   61,
+   -79
+  ],
+  "max": [
+   115,
+   166,
+   77
+  ],
+  "size": [
+   196,
+   106,
+   157
+  ],
+  "spawn": [
+   0,
+   124,
+   0
+  ],
+  "chunks": 109,
+  "emptyChunksDropped": 6816,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 539786,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Reefs.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Reefs.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Reefs.png"
+  }
+ },
+ {
+  "name": "Shans",
+  "source": "Hypixel/DuelsShaped/Shans.zip",
+  "warnings": [],
+  "min": [
+   -128,
+   0,
+   -81
+  ],
+  "max": [
+   81,
+   179,
+   82
+  ],
+  "size": [
+   210,
+   180,
+   164
+  ],
+  "spawn": [
+   0,
+   137,
+   0
+  ],
+  "chunks": 162,
+  "emptyChunksDropped": 7388,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 1607794,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Shans.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Shans.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Shans.png"
+  }
+ },
+ {
+  "name": "Spikerock_Bays",
+  "source": "Hypixel/DuelsShaped/Spikerock_Bays.zip",
+  "warnings": [],
+  "min": [
+   -85,
+   66,
+   -85
+  ],
+  "max": [
+   85,
+   162,
+   85
+  ],
+  "size": [
+   171,
+   97,
+   171
+  ],
+  "spawn": [
+   0,
+   107,
+   0
+  ],
+  "chunks": 144,
+  "emptyChunksDropped": 6781,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 659787,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Spikerock_Bays.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Spikerock_Bays.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Spikerock_Bays.png"
+  }
+ },
+ {
+  "name": "Zhulongs",
+  "source": "Hypixel/DuelsShaped/Zhulongs.zip",
+  "warnings": [],
+  "min": [
+   -70,
+   67,
+   -104
+  ],
+  "max": [
+   70,
+   173,
+   104
+  ],
+  "size": [
+   141,
+   107,
+   209
+  ],
+  "spawn": [
+   0,
+   100,
+   0
+  ],
+  "chunks": 140,
+  "emptyChunksDropped": 7410,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 1270456,
+  "hadLevelDat": true,
+  "mode": "DuelsShaped",
+  "files": {
+   "zip": "Hypixel/DuelsShaped/Zhulongs.zip",
+   "schematic": "Hypixel/DuelsShaped/Schematics/Zhulongs.schematic",
+   "preview": "Hypixel/DuelsShaped/Previews/Zhulongs.png"
+  }
+ },
+ {
+  "name": "Digit",
+  "source": "Hypixel/DuelsSumo/Digit.zip",
+  "warnings": [],
+  "min": [
+   -32,
+   56,
+   -32
+  ],
+  "max": [
+   32,
+   116,
+   32
+  ],
+  "size": [
+   65,
+   61,
+   65
+  ],
+  "spawn": [
+   0,
+   86,
+   0
+  ],
+  "chunks": 25,
+  "emptyChunksDropped": 6900,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96910,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Digit.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Digit.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Digit.png"
+  }
+ },
+ {
+  "name": "Fort_Royale",
+  "source": "Hypixel/DuelsSumo/Fort_Royale.zip",
+  "warnings": [],
+  "min": [
+   -34,
+   58,
+   -35
+  ],
+  "max": [
+   34,
+   108,
+   35
+  ],
+  "size": [
+   69,
+   51,
+   71
+  ],
+  "spawn": [
+   0,
+   72,
+   0
+  ],
+  "chunks": 35,
+  "emptyChunksDropped": 6890,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96868,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Fort_Royale.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Fort_Royale.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Fort_Royale.png"
+  }
+ },
+ {
+  "name": "Ponsen",
+  "source": "Hypixel/DuelsSumo/Ponsen.zip",
+  "warnings": [],
+  "min": [
+   -47,
+   53,
+   -47
+  ],
+  "max": [
+   47,
+   116,
+   47
+  ],
+  "size": [
+   95,
+   64,
+   95
+  ],
+  "spawn": [
+   0,
+   65,
+   0
+  ],
+  "chunks": 36,
+  "emptyChunksDropped": 6889,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 120914,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Ponsen.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Ponsen.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Ponsen.png"
+  }
+ },
+ {
+  "name": "Space_Mine",
+  "source": "Hypixel/DuelsSumo/Space_Mine.zip",
+  "warnings": [],
+  "min": [
+   -89,
+   0,
+   -91
+  ],
+  "max": [
+   60,
+   126,
+   98
+  ],
+  "size": [
+   150,
+   127,
+   190
+  ],
+  "spawn": [
+   0,
+   65,
+   0
+  ],
+  "chunks": 72,
+  "emptyChunksDropped": 6853,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 96976,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Space_Mine.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Space_Mine.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Space_Mine.png"
+  }
+ },
+ {
+  "name": "Sumo",
+  "source": "Hypixel/DuelsSumo/Sumo.zip",
+  "warnings": [],
+  "min": [
+   -22,
+   57,
+   -24
+  ],
+  "max": [
+   22,
+   96,
+   44
+  ],
+  "size": [
+   45,
+   40,
+   69
+  ],
+  "spawn": [
+   0,
+   96,
+   0
+  ],
+  "chunks": 20,
+  "emptyChunksDropped": 6905,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 25113,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Sumo.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Sumo.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Sumo.png"
+  }
+ },
+ {
+  "name": "Vivere",
+  "source": "Hypixel/DuelsSumo/Vivere.zip",
+  "warnings": [],
+  "min": [
+   -55,
+   66,
+   -55
+  ],
+  "max": [
+   55,
+   130,
+   55
+  ],
+  "size": [
+   111,
+   65,
+   111
+  ],
+  "spawn": [
+   0,
+   131,
+   0
+  ],
+  "chunks": 52,
+  "emptyChunksDropped": 6873,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 223505,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/Vivere.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/Vivere.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/Vivere.png"
+  }
+ },
+ {
+  "name": "White_Crystal",
+  "source": "Hypixel/DuelsSumo/White_Crystal.zip",
+  "warnings": [],
+  "min": [
+   -55,
+   47,
+   -79
+  ],
+  "max": [
+   53,
+   158,
+   55
+  ],
+  "size": [
+   109,
+   112,
+   135
+  ],
+  "spawn": [
+   0,
+   65,
+   0
+  ],
+  "chunks": 51,
+  "emptyChunksDropped": 6874,
+  "terrainChunksDropped": 0,
+  "entitiesDropped": 0,
+  "tileIdsFixed": 0,
+  "blocks": 340764,
+  "hadLevelDat": true,
+  "mode": "DuelsSumo",
+  "files": {
+   "zip": "Hypixel/DuelsSumo/White_Crystal.zip",
+   "schematic": "Hypixel/DuelsSumo/Schematics/White_Crystal.schematic",
+   "preview": "Hypixel/DuelsSumo/Previews/White_Crystal.png"
+  }
+ }
+]

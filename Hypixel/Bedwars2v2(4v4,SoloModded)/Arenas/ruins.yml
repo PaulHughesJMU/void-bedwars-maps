@@ -1,0 +1,65 @@
+# BedWars1058 arena configuration file.
+# Documentation here: https://gitlab.com/andrei1058/BedWars1058/wikis/configuration/Arena-Configuration
+group: 2v2
+display-name: ''
+minPlayers: 2
+maxInTeam: 2
+allowSpectate: true
+spawn-protection: 5
+shop-protection: 1
+upgrades-protection: 1
+generator-protection: 1
+island-radius: 17
+worldBorder: 300
+y-kill-height: -1
+max-build-y: 90
+disable-generator-for-empty-teams: false
+disable-npcs-for-empty-teams: false
+vanilla-death-drops: false
+use-bed-hologram: true
+allow-map-break: false
+game-rules:
+- doDaylightCycle:false
+- announceAdvancements:false
+- doInsomnia:false
+- doImmediateRespawn:true
+- doWeatherCycle:false
+- doFireTick:false
+- randomTickSpeed:0
+xp: false
+waiting:
+  Loc: 0.5,140.0,0.5,-90.0,0.0
+  Pos1: 15.5,150.0,15.5,-225.0,0.0
+  Pos2: -14.5,132.0,-14.5,-45.0,0.0
+Team:
+  Red:
+    Color: RED
+    Spawn: 0.5,72.0,-77.5,0.0,0.0
+    Bed: -4.0,71.0,-65.0,0.0,0.0
+    Shop: 6.5,72.0,-79.0,-270.0,0.0
+    Upgrade: -5.5,72.0,-79.0,-90.0,0.0
+    Iron:
+    - 0.5,71.5,-81.5,0.0,90.0
+    Gold:
+    - 0.5,71.5,-81.5,0.0,90.0
+    Emerald:
+    - 0.5,71.5,-81.5,0.0,90.0
+  Blue:
+    Color: BLUE
+    Spawn: 0.5,72.0,78.5,180.0,0.0
+    Bed: 4.0,71.0,64.0,0.0,0.0
+    Iron:
+    - 0.5,71.5,82.5,-180.0,90.0
+    Gold:
+    - 0.5,71.5,82.5,-180.0,90.0
+    Emerald:
+    - 0.5,71.5,82.5,-180.0,90.0
+    Shop: -5.5,72.0,80.0,-90.0,0.0
+    Upgrade: 6.5,72.0,80.0,-270.0,0.0
+generator:
+  Emerald:
+  - -16.5,70.0,6.5,225.0,90.0
+  - 17.5,70.0,-5.5,45.0,90.0
+  Diamond:
+  - 47.5,70.0,10.5,90.0,90.0
+  - -46.5,70.0,-9.5,270.0,90.0
